@@ -179,7 +179,7 @@ async function init() {
   map.addControl(new maplibregl.NavigationControl({ visualizePitch: false }), 'top-right');
   map.addControl(new maplibregl.GeolocateControl({ positionOptions: { enableHighAccuracy: true }, trackUserLocation: true, showUserHeading: true, fitBoundsOptions: { maxZoom: 15.5 } }), 'top-right');
   map.addControl(new maplibregl.ScaleControl({ maxWidth: 120 }), 'bottom-left');
-  map.addControl(new maplibregl.AttributionControl({ compact: true, customAttribution: 'Timetables: CTP Cluj GTFS (gtfs.ro)' }));
+  map.addControl(new maplibregl.AttributionControl({ compact: true, customAttribution: 'Timetables: CTP Cluj (Tranzy API dump) · ctpcj.ro' }));
 
   const [meta] = await Promise.all([
     fetch('data/meta.json').then((r) => r.json()),
@@ -1212,7 +1212,7 @@ async function init() {
       const fs = Math.max(16, Math.round(out.width / 130));
       ctx.font = `${fs}px sans-serif`;
       ctx.textBaseline = 'bottom';
-      const txt = '© OpenStreetMap contributors · OpenFreeMap · GTFS: CTP Cluj GTFS (gtfs.ro)';
+      const txt = '© OpenStreetMap contributors · OpenFreeMap · GTFS: CTP Cluj (Tranzy API dump) · ctpcj.ro';
       const tw = ctx.measureText(txt).width;
       ctx.fillStyle = 'rgba(255,255,255,0.82)';
       ctx.fillRect(out.width - tw - fs, out.height - fs * 1.7, tw + fs, fs * 1.7);
@@ -1223,7 +1223,7 @@ async function init() {
       const d = new Date();
       const pad = (n) => String(n).padStart(2, '0');
       const a = document.createElement('a');
-      a.download = `sofia-transit_${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}_${pad(d.getHours())}${pad(d.getMinutes())}_${out.width}x${out.height}.png`;
+      a.download = `cluj-transit_${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}_${pad(d.getHours())}${pad(d.getMinutes())}_${out.width}x${out.height}.png`;
       a.href = URL.createObjectURL(blob);
       if (!window.__exportNoSave) a.click(); // test hook: render without downloading
       setTimeout(() => URL.revokeObjectURL(a.href), 30000);
@@ -1456,7 +1456,7 @@ async function init() {
             const fs = Math.max(16, Math.round(Wf / 500));
             cx.font = `${fs}px sans-serif`;
             cx.textBaseline = 'bottom';
-            const txt = '© OpenStreetMap contributors · OpenFreeMap · GTFS: CTP Cluj GTFS (gtfs.ro)';
+            const txt = '© OpenStreetMap contributors · OpenFreeMap · GTFS: CTP Cluj (Tranzy API dump) · ctpcj.ro';
             const tw = Math.min(cx.measureText(txt).width, wpx - fs);
             cx.fillStyle = 'rgba(255,255,255,0.82)';
             cx.fillRect(wpx - tw - fs, hpx - fs * 1.7, tw + fs, fs * 1.7);
@@ -1482,7 +1482,7 @@ async function init() {
       const d = new Date();
       const p2 = (v) => String(v).padStart(2, '0');
       const a = document.createElement('a');
-      a.download = `sofia-transit-giant_${d.getFullYear()}-${p2(d.getMonth() + 1)}-${p2(d.getDate())}_${Wf}x${Hf}.png`;
+      a.download = `cluj-transit-giant_${d.getFullYear()}-${p2(d.getMonth() + 1)}-${p2(d.getDate())}_${Wf}x${Hf}.png`;
       a.href = URL.createObjectURL(blob);
       if (window.__exportNoSave) {
         window.__lastGiantURL = a.href; // test hook: decode-check without downloading
