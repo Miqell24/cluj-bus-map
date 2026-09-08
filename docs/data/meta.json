@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-16T11:08:34.767Z",
+  "generatedAt": "2026-09-08T09:09:58.447Z",
   "bbox": [
-    23.288839,
-    46.579132,
+    23.28846,
+    46.577949,
     23.841489,
     46.898861
   ],
@@ -48,20 +48,20 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "P-ța 1 Mai Sosire",
+          "headsign": "P-ța 1 Mai",
           "variants": 1,
-          "tripCount": 190,
+          "tripCount": 1,
           "stops": 13,
-          "lengthKm": 7.19,
+          "lengthKm": 7.18,
           "stats": {
-            "observations": 362,
-            "matched": 362,
+            "observations": 370,
+            "matched": 370,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.5249664984294674,
+            "meanError": 4.3127613091235935,
             "roundaboutSegs": 18,
             "extStart": 0,
             "extEnd": 0
@@ -71,18 +71,18 @@
           "dir": "1",
           "headsign": "Disp. Clăbucet",
           "variants": 1,
-          "tripCount": 190,
+          "tripCount": 1,
           "stops": 12,
-          "lengthKm": 7.23,
+          "lengthKm": 7.11,
           "stats": {
-            "observations": 365,
-            "matched": 365,
+            "observations": 361,
+            "matched": 361,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.6564142405850143,
+            "meanError": 5.2562374790908954,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -97,9 +97,9 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "P-ța Gării Sosire",
+          "headsign": "P-ta Garii Sos",
           "variants": 1,
-          "tripCount": 221,
+          "tripCount": 1,
           "stops": 11,
           "lengthKm": 5.26,
           "stats": {
@@ -110,7 +110,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.8662720597283442,
+            "meanError": 1.890698794979891,
             "roundaboutSegs": 39,
             "extStart": 0,
             "extEnd": 0
@@ -120,7 +120,7 @@
           "dir": "1",
           "headsign": "Disp. Unirii",
           "variants": 1,
-          "tripCount": 221,
+          "tripCount": 1,
           "stops": 11,
           "lengthKm": 4.91,
           "stats": {
@@ -131,7 +131,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.5828596808894583,
+            "meanError": 0.5829439819244122,
             "roundaboutSegs": 48,
             "extStart": 0,
             "extEnd": 0
@@ -146,11 +146,11 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "P-ța Gării Sosire",
+          "headsign": "P-ta Garii Sos",
           "variants": 1,
-          "tripCount": 15,
+          "tripCount": 1,
           "stops": 11,
-          "lengthKm": 5.42,
+          "lengthKm": 5.43,
           "stats": {
             "observations": 273,
             "matched": 273,
@@ -159,7 +159,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.4146253175457015,
+            "meanError": 1.4520315352577486,
             "roundaboutSegs": 9,
             "extStart": 0,
             "extEnd": 0
@@ -169,7 +169,7 @@
           "dir": "1",
           "headsign": "Disp. IRA",
           "variants": 1,
-          "tripCount": 9,
+          "tripCount": 1,
           "stops": 10,
           "lengthKm": 5.69,
           "stats": {
@@ -180,7 +180,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.549569229619448,
+            "meanError": 1.5496750582621375,
             "roundaboutSegs": 21,
             "extStart": 0,
             "extEnd": 0
@@ -197,7 +197,7 @@
           "dir": "0",
           "headsign": "Electromontaj Sud",
           "variants": 1,
-          "tripCount": 234,
+          "tripCount": 1,
           "stops": 18,
           "lengthKm": 9.95,
           "stats": {
@@ -208,7 +208,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.4554117127148922,
+            "meanError": 1.495315024813108,
             "roundaboutSegs": 14,
             "extStart": 0,
             "extEnd": 0
@@ -218,7 +218,7 @@
           "dir": "1",
           "headsign": "P-ța Gării Sosire",
           "variants": 1,
-          "tripCount": 226,
+          "tripCount": 1,
           "stops": 18,
           "lengthKm": 10.21,
           "stats": {
@@ -229,36 +229,8 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.961624249968837,
+            "meanError": 1.0212645138884069,
             "roundaboutSegs": 15,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "5N",
-      "mode": "bus",
-      "color": "#149a3f",
-      "dirs": [
-        {
-          "dir": "Electromontaj Sud",
-          "headsign": "Electromontaj Sud",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 18,
-          "lengthKm": 9.95,
-          "stats": {
-            "observations": 501,
-            "matched": 501,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.4886683772453617,
-            "roundaboutSegs": 14,
             "extStart": 0,
             "extEnd": 0
           }
@@ -274,7 +246,7 @@
           "dir": "0",
           "headsign": "Disp. IRA",
           "variants": 1,
-          "tripCount": 383,
+          "tripCount": 1,
           "stops": 16,
           "lengthKm": 9.17,
           "stats": {
@@ -285,7 +257,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.357590774909618,
+            "meanError": 0.3743131628211365,
             "roundaboutSegs": 52,
             "extStart": 0,
             "extEnd": 0
@@ -293,9 +265,9 @@
         },
         {
           "dir": "1",
-          "headsign": "Disp. Clăbucet",
+          "headsign": "Disp. Clabucet",
           "variants": 1,
-          "tripCount": 383,
+          "tripCount": 1,
           "stops": 16,
           "lengthKm": 8.45,
           "stats": {
@@ -306,7 +278,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.3293911777023174,
+            "meanError": 0.3461431682860058,
             "roundaboutSegs": 15,
             "extStart": 0,
             "extEnd": 0
@@ -323,7 +295,7 @@
           "dir": "0",
           "headsign": "Izlazului",
           "variants": 1,
-          "tripCount": 31,
+          "tripCount": 1,
           "stops": 14,
           "lengthKm": 7.72,
           "stats": {
@@ -334,7 +306,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.5800803010823813,
+            "meanError": 0.5969991465137104,
             "roundaboutSegs": 15,
             "extStart": 0,
             "extEnd": 0
@@ -344,7 +316,7 @@
           "dir": "1",
           "headsign": "Disp. IRA",
           "variants": 1,
-          "tripCount": 31,
+          "tripCount": 1,
           "stops": 13,
           "lengthKm": 7.59,
           "stats": {
@@ -355,7 +327,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.29022396743497425,
+            "meanError": 0.3080601113389685,
             "roundaboutSegs": 33,
             "extStart": 0,
             "extEnd": 0
@@ -372,7 +344,7 @@
           "dir": "0",
           "headsign": "Electromontaj Sud",
           "variants": 1,
-          "tripCount": 44,
+          "tripCount": 1,
           "stops": 16,
           "lengthKm": 8.79,
           "stats": {
@@ -383,7 +355,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.3959243248769426,
+            "meanError": 0.44128265559546226,
             "roundaboutSegs": 14,
             "extStart": 0,
             "extEnd": 0
@@ -393,7 +365,7 @@
           "dir": "1",
           "headsign": "P-ța M. Viteazul Sud",
           "variants": 1,
-          "tripCount": 43,
+          "tripCount": 1,
           "stops": 17,
           "lengthKm": 9.15,
           "stats": {
@@ -404,106 +376,8 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.0430231016506137,
+            "meanError": 1.1072460116579317,
             "roundaboutSegs": 21,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "8L",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Piața AGRO Sosire",
-          "variants": 1,
-          "tripCount": 8,
-          "stops": 10,
-          "lengthKm": 7.97,
-          "stats": {
-            "observations": 399,
-            "matched": 399,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.31452810089965894,
-            "roundaboutSegs": 11,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Arte Plastice",
-          "variants": 1,
-          "tripCount": 8,
-          "stops": 10,
-          "lengthKm": 7.94,
-          "stats": {
-            "observations": 398,
-            "matched": 398,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.26738747905184546,
-            "roundaboutSegs": 8,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "9",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "P-ța Gării Sosire",
-          "variants": 1,
-          "tripCount": 279,
-          "stops": 11,
-          "lengthKm": 6.23,
-          "stats": {
-            "observations": 311,
-            "matched": 311,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.681355337294351,
-            "roundaboutSegs": 26,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Disp. Bucium",
-          "variants": 1,
-          "tripCount": 275,
-          "stops": 11,
-          "lengthKm": 6.84,
-          "stats": {
-            "observations": 344,
-            "matched": 344,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.9975896331383542,
-            "roundaboutSegs": 6,
             "extStart": 0,
             "extEnd": 0
           }
@@ -516,10 +390,10 @@
       "color": "#149a3f",
       "dirs": [
         {
-          "dir": "Disp. ERS CUG",
+          "dir": "0",
           "headsign": "Disp. ERS CUG",
           "variants": 1,
-          "tripCount": 36,
+          "tripCount": 1,
           "stops": 19,
           "lengthKm": 8.97,
           "stats": {
@@ -530,8 +404,29 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.2300054377237748,
+            "meanError": 1.2301120430820605,
             "roundaboutSegs": 44,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Disp. Unirii",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 13,
+          "lengthKm": 5.99,
+          "stats": {
+            "observations": 307,
+            "matched": 307,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5442186864209773,
+            "roundaboutSegs": 56,
             "extStart": 0,
             "extEnd": 0
           }
@@ -544,10 +439,10 @@
       "color": "#149a3f",
       "dirs": [
         {
-          "dir": "ERS CUG Sud",
+          "dir": "0",
           "headsign": "ERS CUG Sud",
           "variants": 1,
-          "tripCount": 139,
+          "tripCount": 1,
           "stops": 12,
           "lengthKm": 5.87,
           "stats": {
@@ -558,8 +453,29 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.1139103792367755,
+            "meanError": 3.1140225103515506,
             "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Disp. IRA",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 12,
+          "lengthKm": 6.14,
+          "stats": {
+            "observations": 300,
+            "matched": 300,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9237211032724952,
+            "roundaboutSegs": 71,
             "extStart": 0,
             "extEnd": 0
           }
@@ -575,7 +491,7 @@
           "dir": "0",
           "headsign": "ERS CUG Sud",
           "variants": 1,
-          "tripCount": 85,
+          "tripCount": 1,
           "stops": 20,
           "lengthKm": 10.93,
           "stats": {
@@ -586,7 +502,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.3237301655648044,
+            "meanError": 0.33727889627677404,
             "roundaboutSegs": 57,
             "extStart": 0,
             "extEnd": 0
@@ -596,7 +512,7 @@
           "dir": "1",
           "headsign": "Disp. Clăbucet",
           "variants": 1,
-          "tripCount": 85,
+          "tripCount": 1,
           "stops": 18,
           "lengthKm": 10.72,
           "stats": {
@@ -607,8 +523,204 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.36928014979521495,
+            "meanError": 0.41214631555857534,
             "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "23",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "ERS CUG Sud",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 12,
+          "lengthKm": 6.23,
+          "stats": {
+            "observations": 341,
+            "matched": 341,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8038944637104646,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "I.P. Voitești",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 10,
+          "lengthKm": 5.93,
+          "stats": {
+            "observations": 294,
+            "matched": 294,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6493061328773082,
+            "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "25",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Snagov Nord",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 18,
+          "lengthKm": 8.76,
+          "stats": {
+            "observations": 443,
+            "matched": 443,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.4114455300731977,
+            "roundaboutSegs": 36,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Disp. Clabucet",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 15,
+          "lengthKm": 7.98,
+          "stats": {
+            "observations": 400,
+            "matched": 400,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.31703171182436135,
+            "roundaboutSegs": 32,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "8L",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Piața AGRO Sosire",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 10,
+          "lengthKm": 7.97,
+          "stats": {
+            "observations": 399,
+            "matched": 399,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.3094220566474402,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Arte Plastice",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 10,
+          "lengthKm": 7.94,
+          "stats": {
+            "observations": 398,
+            "matched": 398,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.2673514289156661,
+            "roundaboutSegs": 8,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "9",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "P-ta Garii Sos",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 11,
+          "lengthKm": 6.23,
+          "stats": {
+            "observations": 311,
+            "matched": 311,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7146089175892172,
+            "roundaboutSegs": 26,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Disp. Bucium",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 11,
+          "lengthKm": 6.85,
+          "stats": {
+            "observations": 344,
+            "matched": 344,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0297296404748209,
+            "roundaboutSegs": 6,
             "extStart": 0,
             "extEnd": 0
           }
@@ -622,9 +734,9 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Veseliei",
+          "headsign": "Veseliei ",
           "variants": 1,
-          "tripCount": 14,
+          "tripCount": 1,
           "stops": 11,
           "lengthKm": 4.82,
           "stats": {
@@ -635,7 +747,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.36978123384287415,
+            "meanError": 0.3697822231285201,
             "roundaboutSegs": 8,
             "extStart": 0,
             "extEnd": 0
@@ -645,7 +757,7 @@
           "dir": "1",
           "headsign": "Posada",
           "variants": 1,
-          "tripCount": 15,
+          "tripCount": 1,
           "stops": 10,
           "lengthKm": 4.83,
           "stats": {
@@ -656,7 +768,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.4422955594239753,
+            "meanError": 0.4422869078683439,
             "roundaboutSegs": 8,
             "extStart": 0,
             "extEnd": 0
@@ -673,18 +785,18 @@
           "dir": "0",
           "headsign": "E.Quinet Sud",
           "variants": 1,
-          "tripCount": 88,
+          "tripCount": 1,
           "stops": 9,
-          "lengthKm": 5.33,
+          "lengthKm": 5.35,
           "stats": {
-            "observations": 268,
-            "matched": 268,
+            "observations": 282,
+            "matched": 282,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.42137002563442033,
+            "meanError": 2.1086748113927354,
             "roundaboutSegs": 21,
             "extStart": 0,
             "extEnd": 0
@@ -694,18 +806,18 @@
           "dir": "1",
           "headsign": "P-ța M. Viteazul Sud",
           "variants": 1,
-          "tripCount": 89,
-          "stops": 11,
-          "lengthKm": 6.12,
+          "tripCount": 1,
+          "stops": 12,
+          "lengthKm": 6.13,
           "stats": {
-            "observations": 309,
-            "matched": 309,
+            "observations": 319,
+            "matched": 319,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.2668603131603091,
+            "meanError": 1.9929739699693538,
             "roundaboutSegs": 13,
             "extStart": 0,
             "extEnd": 0
@@ -722,7 +834,7 @@
           "dir": "0",
           "headsign": "Posada",
           "variants": 1,
-          "tripCount": 70,
+          "tripCount": 1,
           "stops": 10,
           "lengthKm": 5.08,
           "stats": {
@@ -733,7 +845,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.21843699428335844,
+            "meanError": 0.2185114096232907,
             "roundaboutSegs": 8,
             "extStart": 0,
             "extEnd": 0
@@ -743,7 +855,7 @@
           "dir": "1",
           "headsign": "Biserica Borhanci Vest",
           "variants": 1,
-          "tripCount": 71,
+          "tripCount": 1,
           "stops": 11,
           "lengthKm": 5.19,
           "stats": {
@@ -754,7 +866,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.20994127148907019,
+            "meanError": 0.209938573137069,
             "roundaboutSegs": 8,
             "extStart": 0,
             "extEnd": 0
@@ -771,7 +883,7 @@
           "dir": "0",
           "headsign": "Dacia Service Sosire",
           "variants": 1,
-          "tripCount": 167,
+          "tripCount": 1,
           "stops": 13,
           "lengthKm": 6.26,
           "stats": {
@@ -782,7 +894,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.48669679962132784,
+            "meanError": 0.4866820288928773,
             "roundaboutSegs": 44,
             "extStart": 0,
             "extEnd": 0
@@ -792,7 +904,7 @@
           "dir": "1",
           "headsign": "P-ța M. Viteazul Vest",
           "variants": 1,
-          "tripCount": 166,
+          "tripCount": 1,
           "stops": 12,
           "lengthKm": 5.78,
           "stats": {
@@ -803,7 +915,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.2672842260894392,
+            "meanError": 1.2673334376809124,
             "roundaboutSegs": 9,
             "extStart": 0,
             "extEnd": 0
@@ -818,9 +930,9 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Boli Infecțioase Sosire",
+          "headsign": "Boli Infectioase Sos",
           "variants": 1,
-          "tripCount": 2,
+          "tripCount": 1,
           "stops": 8,
           "lengthKm": 3.81,
           "stats": {
@@ -831,7 +943,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.4434454360265416,
+            "meanError": 1.5115358410183515,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -839,9 +951,9 @@
         },
         {
           "dir": "1",
-          "headsign": "P-ța Gării Sosire",
+          "headsign": "P-ta Garii Sos",
           "variants": 1,
-          "tripCount": 2,
+          "tripCount": 1,
           "stops": 5,
           "lengthKm": 3.13,
           "stats": {
@@ -852,57 +964,8 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.597685572041104,
+            "meanError": 1.5994289943215663,
             "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "23",
-      "mode": "bus",
-      "color": "#149a3f",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "ERS CUG Sud",
-          "variants": 1,
-          "tripCount": 18,
-          "stops": 12,
-          "lengthKm": 6.44,
-          "stats": {
-            "observations": 324,
-            "matched": 324,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.2641255634025044,
-            "roundaboutSegs": 18,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "I.P. Voitești",
-          "variants": 1,
-          "tripCount": 18,
-          "stops": 10,
-          "lengthKm": 5.94,
-          "stats": {
-            "observations": 295,
-            "matched": 295,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.502601583569912,
-            "roundaboutSegs": 53,
             "extStart": 0,
             "extEnd": 0
           }
@@ -918,7 +981,7 @@
           "dir": "0",
           "headsign": "Disp. Bucium",
           "variants": 1,
-          "tripCount": 27,
+          "tripCount": 1,
           "stops": 18,
           "lengthKm": 9.21,
           "stats": {
@@ -929,7 +992,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.503680215518461,
+            "meanError": 0.517106540050292,
             "roundaboutSegs": 34,
             "extStart": 0,
             "extEnd": 0
@@ -939,7 +1002,7 @@
           "dir": "1",
           "headsign": "Disp. Unirii",
           "variants": 1,
-          "tripCount": 23,
+          "tripCount": 1,
           "stops": 18,
           "lengthKm": 8.62,
           "stats": {
@@ -950,7 +1013,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.5429457824638053,
+            "meanError": 0.5614019345277993,
             "roundaboutSegs": 36,
             "extStart": 0,
             "extEnd": 0
@@ -967,19 +1030,19 @@
           "dir": "0",
           "headsign": "VIVO Sosire",
           "variants": 1,
-          "tripCount": 281,
+          "tripCount": 1,
           "stops": 18,
-          "lengthKm": 9.91,
+          "lengthKm": 9.31,
           "stats": {
-            "observations": 506,
-            "matched": 506,
+            "observations": 460,
+            "matched": 460,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.1413965182793553,
-            "roundaboutSegs": 45,
+            "meanError": 4.7934732909776905,
+            "roundaboutSegs": 43,
             "extStart": 0,
             "extEnd": 0
           }
@@ -988,96 +1051,19 @@
           "dir": "1",
           "headsign": "Disp. Unirii",
           "variants": 1,
-          "tripCount": 281,
-          "stops": 17,
-          "lengthKm": 9.11,
-          "stats": {
-            "observations": 467,
-            "matched": 467,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.4885958725702606,
-            "roundaboutSegs": 28,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "25",
-      "mode": "bus",
-      "color": "#149a3f",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Snagov Nord",
-          "variants": 1,
-          "tripCount": 381,
+          "tripCount": 1,
           "stops": 18,
-          "lengthKm": 8.76,
+          "lengthKm": 9.17,
           "stats": {
-            "observations": 443,
-            "matched": 443,
+            "observations": 463,
+            "matched": 463,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.39183126677918517,
+            "meanError": 6.8832105146958025,
             "roundaboutSegs": 36,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Disp. Clăbucet",
-          "variants": 1,
-          "tripCount": 381,
-          "stops": 15,
-          "lengthKm": 7.98,
-          "stats": {
-            "observations": 400,
-            "matched": 400,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.29940220666351613,
-            "roundaboutSegs": 32,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "25N",
-      "mode": "bus",
-      "color": "#149a3f",
-      "dirs": [
-        {
-          "dir": "Disp. Unirii",
-          "headsign": "Disp. Unirii",
-          "variants": 1,
-          "tripCount": 15,
-          "stops": 18,
-          "lengthKm": 8.81,
-          "stats": {
-            "observations": 465,
-            "matched": 465,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.4860702453548196,
-            "roundaboutSegs": 27,
             "extStart": 0,
             "extEnd": 0
           }
@@ -1093,19 +1079,19 @@
           "dir": "0",
           "headsign": "ERS CUG S.",
           "variants": 1,
-          "tripCount": 5,
+          "tripCount": 1,
           "stops": 19,
-          "lengthKm": 9.53,
+          "lengthKm": 9.94,
           "stats": {
-            "observations": 487,
-            "matched": 487,
+            "observations": 498,
+            "matched": 498,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.8052735942715235,
-            "roundaboutSegs": 15,
+            "meanError": 3.7042786681809514,
+            "roundaboutSegs": 31,
             "extStart": 0,
             "extEnd": 0
           }
@@ -1114,19 +1100,19 @@
           "dir": "1",
           "headsign": "Disp. Grigorescu",
           "variants": 1,
-          "tripCount": 5,
+          "tripCount": 1,
           "stops": 19,
-          "lengthKm": 8.96,
+          "lengthKm": 9.09,
           "stats": {
-            "observations": 470,
-            "matched": 470,
+            "observations": 463,
+            "matched": 463,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.06628440773781,
-            "roundaboutSegs": 38,
+            "meanError": 3.0243944069110142,
+            "roundaboutSegs": 42,
             "extStart": 0,
             "extEnd": 0
           }
@@ -1142,19 +1128,19 @@
           "dir": "0",
           "headsign": "Emerson Sosire",
           "variants": 1,
-          "tripCount": 11,
+          "tripCount": 1,
           "stops": 23,
-          "lengthKm": 12.77,
+          "lengthKm": 12.5,
           "stats": {
-            "observations": 634,
-            "matched": 626,
-            "noCandidates": 8,
-            "viterbiBreaks": 3,
+            "observations": 627,
+            "matched": 627,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
             "bridged": 0,
-            "rawStretchCount": 3,
-            "rawMeters": 215,
-            "meanError": 3.528244686628855,
-            "roundaboutSegs": 29,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.833900367303983,
+            "roundaboutSegs": 32,
             "extStart": 0,
             "extEnd": 0
           }
@@ -1163,18 +1149,18 @@
           "dir": "1",
           "headsign": "Disp. Grigorescu",
           "variants": 1,
-          "tripCount": 11,
+          "tripCount": 1,
           "stops": 22,
-          "lengthKm": 12.52,
+          "lengthKm": 11.67,
           "stats": {
-            "observations": 614,
-            "matched": 606,
-            "noCandidates": 8,
-            "viterbiBreaks": 3,
+            "observations": 584,
+            "matched": 584,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
             "bridged": 0,
-            "rawStretchCount": 3,
-            "rawMeters": 215,
-            "meanError": 2.8190587259106503,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.190362734096107,
             "roundaboutSegs": 53,
             "extStart": 0,
             "extEnd": 0
@@ -1191,19 +1177,19 @@
           "dir": "0",
           "headsign": "P-ța Gării Sosire",
           "variants": 1,
-          "tripCount": 131,
+          "tripCount": 1,
           "stops": 9,
-          "lengthKm": 4.46,
+          "lengthKm": 5.18,
           "stats": {
-            "observations": 230,
-            "matched": 230,
+            "observations": 256,
+            "matched": 256,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.7056661947275243,
-            "roundaboutSegs": 7,
+            "meanError": 6.672738516624191,
+            "roundaboutSegs": 23,
             "extStart": 0,
             "extEnd": 0
           }
@@ -1212,19 +1198,19 @@
           "dir": "1",
           "headsign": "Disp. Grigorescu",
           "variants": 1,
-          "tripCount": 131,
+          "tripCount": 1,
           "stops": 11,
-          "lengthKm": 4.79,
+          "lengthKm": 4.94,
           "stats": {
-            "observations": 258,
-            "matched": 258,
+            "observations": 251,
+            "matched": 251,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.0013766657816976,
-            "roundaboutSegs": 15,
+            "meanError": 4.434501351502145,
+            "roundaboutSegs": 19,
             "extStart": 0,
             "extEnd": 0
           }
@@ -1240,19 +1226,19 @@
           "dir": "0",
           "headsign": "P-ța M.Viteazu Sosire",
           "variants": 1,
-          "tripCount": 4,
+          "tripCount": 1,
           "stops": 8,
-          "lengthKm": 3.62,
+          "lengthKm": 4.2,
           "stats": {
-            "observations": 189,
-            "matched": 189,
+            "observations": 211,
+            "matched": 211,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.0075173020852546,
-            "roundaboutSegs": 7,
+            "meanError": 6.110204343595963,
+            "roundaboutSegs": 23,
             "extStart": 0,
             "extEnd": 0
           }
@@ -1261,19 +1247,19 @@
           "dir": "1",
           "headsign": "Disp. Grigorescu",
           "variants": 1,
-          "tripCount": 4,
+          "tripCount": 1,
           "stops": 10,
-          "lengthKm": 4.16,
+          "lengthKm": 4.14,
           "stats": {
-            "observations": 227,
-            "matched": 227,
+            "observations": 210,
+            "matched": 210,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.2162543491806614,
-            "roundaboutSegs": 15,
+            "meanError": 4.786893632480614,
+            "roundaboutSegs": 19,
             "extStart": 0,
             "extEnd": 0
           }
@@ -1289,19 +1275,19 @@
           "dir": "0",
           "headsign": "P-ța M.Viteazu Sosire",
           "variants": 1,
-          "tripCount": 61,
-          "stops": 9,
-          "lengthKm": 6.11,
+          "tripCount": 1,
+          "stops": 10,
+          "lengthKm": 6.08,
           "stats": {
-            "observations": 302,
-            "matched": 302,
+            "observations": 307,
+            "matched": 307,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.9913870233054496,
-            "roundaboutSegs": 29,
+            "meanError": 3.6486021476106987,
+            "roundaboutSegs": 42,
             "extStart": 0,
             "extEnd": 0
           }
@@ -1310,19 +1296,19 @@
           "dir": "1",
           "headsign": "VIVO Sosire",
           "variants": 1,
-          "tripCount": 63,
+          "tripCount": 1,
           "stops": 11,
-          "lengthKm": 6.83,
+          "lengthKm": 6.23,
           "stats": {
-            "observations": 366,
-            "matched": 366,
+            "observations": 312,
+            "matched": 312,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.7694591588015459,
-            "roundaboutSegs": 46,
+            "meanError": 3.594692368117982,
+            "roundaboutSegs": 29,
             "extStart": 0,
             "extEnd": 0
           }
@@ -1338,7 +1324,7 @@
           "dir": "0",
           "headsign": "Henri Barbusse Sosire",
           "variants": 1,
-          "tripCount": 9,
+          "tripCount": 1,
           "stops": 12,
           "lengthKm": 8.72,
           "stats": {
@@ -1349,7 +1335,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.49459254492215365,
+            "meanError": 0.5225326001985637,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -1359,7 +1345,7 @@
           "dir": "1",
           "headsign": "Roata Faget Sosire",
           "variants": 1,
-          "tripCount": 9,
+          "tripCount": 1,
           "stops": 13,
           "lengthKm": 9.87,
           "stats": {
@@ -1370,7 +1356,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.5038713701788716,
+            "meanError": 0.5228007574442666,
             "roundaboutSegs": 2,
             "extStart": 0,
             "extEnd": 0
@@ -1384,10 +1370,10 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "P-ța M.Viteazu Sosire",
-          "headsign": "P-ța M.Viteazu Sosire",
+          "dir": "0",
+          "headsign": "P-ta M.Viteazu Sos",
           "variants": 1,
-          "tripCount": 73,
+          "tripCount": 1,
           "stops": 10,
           "lengthKm": 6.5,
           "stats": {
@@ -1398,7 +1384,28 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.5710038780323483,
+            "meanError": 0.5986709868291539,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Roata Faget Sos.",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 10,
+          "lengthKm": 7.48,
+          "stats": {
+            "observations": 375,
+            "matched": 375,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8629619866602949,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -1415,19 +1422,19 @@
           "dir": "0",
           "headsign": "Disp. IRA",
           "variants": 1,
-          "tripCount": 325,
+          "tripCount": 1,
           "stops": 16,
-          "lengthKm": 8.59,
+          "lengthKm": 8.2,
           "stats": {
-            "observations": 439,
-            "matched": 439,
+            "observations": 413,
+            "matched": 413,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 4.975571938449908,
-            "roundaboutSegs": 17,
+            "meanError": 6.170112288214622,
+            "roundaboutSegs": 20,
             "extStart": 0,
             "extEnd": 0
           }
@@ -1436,19 +1443,19 @@
           "dir": "1",
           "headsign": "Disp. Grigorescu",
           "variants": 1,
-          "tripCount": 323,
+          "tripCount": 1,
           "stops": 17,
-          "lengthKm": 9.04,
+          "lengthKm": 8.41,
           "stats": {
-            "observations": 478,
-            "matched": 478,
+            "observations": 425,
+            "matched": 425,
             "noCandidates": 0,
-            "viterbiBreaks": 1,
+            "viterbiBreaks": 0,
             "bridged": 0,
-            "rawStretchCount": 1,
-            "rawMeters": 20,
-            "meanError": 4.492028542030198,
-            "roundaboutSegs": 24,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.783246270175783,
+            "roundaboutSegs": 23,
             "extStart": 0,
             "extEnd": 0
           }
@@ -1462,9 +1469,9 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Napolact Sosire",
+          "headsign": "Napolact Sos",
           "variants": 1,
-          "tripCount": 188,
+          "tripCount": 1,
           "stops": 11,
           "lengthKm": 5.96,
           "stats": {
@@ -1475,7 +1482,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.1157512535366845,
+            "meanError": 1.117941704967196,
             "roundaboutSegs": 4,
             "extStart": 0,
             "extEnd": 0
@@ -1485,7 +1492,7 @@
           "dir": "1",
           "headsign": "Piața Mihai Viteazul Est Sosire",
           "variants": 1,
-          "tripCount": 190,
+          "tripCount": 1,
           "stops": 10,
           "lengthKm": 5.89,
           "stats": {
@@ -1496,7 +1503,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.17598916751615,
+            "meanError": 1.1792866869740954,
             "roundaboutSegs": 9,
             "extStart": 0,
             "extEnd": 0
@@ -1511,9 +1518,9 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Piața Mihai Viteazul Vest Sosire",
+          "headsign": "PMV 2 Sos",
           "variants": 1,
-          "tripCount": 202,
+          "tripCount": 1,
           "stops": 7,
           "lengthKm": 3.3,
           "stats": {
@@ -1524,7 +1531,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.642250959685926,
+            "meanError": 1.6422891711795091,
             "roundaboutSegs": 8,
             "extStart": 0,
             "extEnd": 0
@@ -1534,7 +1541,7 @@
           "dir": "1",
           "headsign": "Disp. Alverna",
           "variants": 1,
-          "tripCount": 205,
+          "tripCount": 1,
           "stops": 7,
           "lengthKm": 3.12,
           "stats": {
@@ -1545,7 +1552,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.4011542685914868,
+            "meanError": 1.401173164388755,
             "roundaboutSegs": 8,
             "extStart": 0,
             "extEnd": 0
@@ -1560,11 +1567,11 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "P-ța Gării Sosire",
+          "headsign": "P-ta Garii Sos",
           "variants": 1,
-          "tripCount": 77,
+          "tripCount": 1,
           "stops": 10,
-          "lengthKm": 4.62,
+          "lengthKm": 4.63,
           "stats": {
             "observations": 233,
             "matched": 233,
@@ -1573,7 +1580,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.2282566115346284,
+            "meanError": 0.2758525955026325,
             "roundaboutSegs": 8,
             "extStart": 0,
             "extEnd": 0
@@ -1583,7 +1590,7 @@
           "dir": "1",
           "headsign": "Disp. Alverna",
           "variants": 1,
-          "tripCount": 77,
+          "tripCount": 1,
           "stops": 9,
           "lengthKm": 4.52,
           "stats": {
@@ -1594,7 +1601,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.2679018945642239,
+            "meanError": 0.2678792019223491,
             "roundaboutSegs": 8,
             "extStart": 0,
             "extEnd": 0
@@ -1609,9 +1616,9 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "P-ța M. Viteazul Vest",
+          "headsign": "P-ta M. Viteazul Vest",
           "variants": 1,
-          "tripCount": 171,
+          "tripCount": 1,
           "stops": 7,
           "lengthKm": 3.82,
           "stats": {
@@ -1622,7 +1629,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.8504079808277474,
+            "meanError": 1.850542805149281,
             "roundaboutSegs": 39,
             "extStart": 0,
             "extEnd": 0
@@ -1630,9 +1637,9 @@
         },
         {
           "dir": "1",
-          "headsign": "Băișoara Sosire",
+          "headsign": "Baisoara Sos",
           "variants": 1,
-          "tripCount": 172,
+          "tripCount": 1,
           "stops": 7,
           "lengthKm": 3.62,
           "stats": {
@@ -1643,7 +1650,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.667801843837005,
+            "meanError": 1.6678051682979411,
             "roundaboutSegs": 12,
             "extStart": 0,
             "extEnd": 0
@@ -1658,21 +1665,21 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "P-ța Gării Nord",
+          "headsign": "P-ța Gării Sosire",
           "variants": 1,
-          "tripCount": 58,
-          "stops": 14,
-          "lengthKm": 7.01,
+          "tripCount": 1,
+          "stops": 15,
+          "lengthKm": 7.14,
           "stats": {
-            "observations": 352,
-            "matched": 352,
+            "observations": 334,
+            "matched": 334,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.2576264321164664,
-            "roundaboutSegs": 27,
+            "meanError": 4.562632844525778,
+            "roundaboutSegs": 21,
             "extStart": 0,
             "extEnd": 0
           }
@@ -1681,19 +1688,19 @@
           "dir": "1",
           "headsign": "Băișoara Sosire",
           "variants": 1,
-          "tripCount": 58,
+          "tripCount": 1,
           "stops": 14,
-          "lengthKm": 6.67,
+          "lengthKm": 7.01,
           "stats": {
-            "observations": 335,
-            "matched": 335,
+            "observations": 337,
+            "matched": 337,
             "noCandidates": 0,
-            "viterbiBreaks": 0,
+            "viterbiBreaks": 1,
             "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.20474397616466267,
-            "roundaboutSegs": 60,
+            "rawStretchCount": 1,
+            "rawMeters": 20,
+            "meanError": 5.708788665786045,
+            "roundaboutSegs": 44,
             "extStart": 0,
             "extEnd": 0
           }
@@ -1707,11 +1714,11 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "P-ța Gării Sosire",
+          "headsign": "P-ta Garii Sos",
           "variants": 1,
-          "tripCount": 347,
+          "tripCount": 1,
           "stops": 11,
-          "lengthKm": 5.78,
+          "lengthKm": 5.79,
           "stats": {
             "observations": 286,
             "matched": 286,
@@ -1720,7 +1727,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.262787748706968,
+            "meanError": 1.2981526073472365,
             "roundaboutSegs": 25,
             "extStart": 0,
             "extEnd": 0
@@ -1730,7 +1737,7 @@
           "dir": "1",
           "headsign": "Disp. Zorilor",
           "variants": 1,
-          "tripCount": 347,
+          "tripCount": 1,
           "stops": 9,
           "lengthKm": 5.35,
           "stats": {
@@ -1741,7 +1748,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.487493541467548,
+            "meanError": 1.4875409871211567,
             "roundaboutSegs": 38,
             "extStart": 0,
             "extEnd": 0
@@ -1756,9 +1763,9 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "I. Ionescu Sosire",
+          "headsign": "I. Ionescu Sos.",
           "variants": 1,
-          "tripCount": 137,
+          "tripCount": 1,
           "stops": 15,
           "lengthKm": 6.93,
           "stats": {
@@ -1769,7 +1776,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.6135119658816046,
+            "meanError": 1.6135130380578167,
             "roundaboutSegs": 32,
             "extStart": 0,
             "extEnd": 0
@@ -1777,9 +1784,9 @@
         },
         {
           "dir": "1",
-          "headsign": "P-ța M. Viteazul Vest",
+          "headsign": "P-ta M. Viteazul Vest",
           "variants": 1,
-          "tripCount": 135,
+          "tripCount": 1,
           "stops": 15,
           "lengthKm": 7.04,
           "stats": {
@@ -1790,7 +1797,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.6694127650577504,
+            "meanError": 1.6321516414576287,
             "roundaboutSegs": 29,
             "extStart": 0,
             "extEnd": 0
@@ -1807,18 +1814,18 @@
           "dir": "0",
           "headsign": "Emerson Sosire",
           "variants": 1,
-          "tripCount": 37,
+          "tripCount": 1,
           "stops": 17,
           "lengthKm": 8.21,
           "stats": {
-            "observations": 411,
-            "matched": 411,
+            "observations": 419,
+            "matched": 419,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.7800747773206422,
+            "meanError": 1.619670078986614,
             "roundaboutSegs": 34,
             "extStart": 0,
             "extEnd": 0
@@ -1828,19 +1835,19 @@
           "dir": "1",
           "headsign": "P-ța M. Viteazul Vest",
           "variants": 1,
-          "tripCount": 37,
+          "tripCount": 1,
           "stops": 18,
-          "lengthKm": 8.99,
+          "lengthKm": 8.73,
           "stats": {
-            "observations": 451,
-            "matched": 451,
+            "observations": 433,
+            "matched": 433,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.22618929449113784,
-            "roundaboutSegs": 51,
+            "meanError": 0.9214847742101625,
+            "roundaboutSegs": 84,
             "extStart": 0,
             "extEnd": 0
           }
@@ -1856,7 +1863,7 @@
           "dir": "0",
           "headsign": "Tetarom Vest",
           "variants": 1,
-          "tripCount": 70,
+          "tripCount": 1,
           "stops": 8,
           "lengthKm": 3.93,
           "stats": {
@@ -1867,7 +1874,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.5076711688909407,
+            "meanError": 0.5076227323697167,
             "roundaboutSegs": 11,
             "extStart": 0,
             "extEnd": 0
@@ -1877,7 +1884,7 @@
           "dir": "1",
           "headsign": "Piața Mihai Viteazul Est Sosire",
           "variants": 1,
-          "tripCount": 70,
+          "tripCount": 1,
           "stops": 8,
           "lengthKm": 3.98,
           "stats": {
@@ -1888,7 +1895,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.2708421333878946,
+            "meanError": 0.27060453985390687,
             "roundaboutSegs": 12,
             "extStart": 0,
             "extEnd": 0
@@ -1903,9 +1910,9 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Vânătorului Sosire",
+          "headsign": "Vanatorului Sos.",
           "variants": 1,
-          "tripCount": 75,
+          "tripCount": 1,
           "stops": 4,
           "lengthKm": 1.95,
           "stats": {
@@ -1916,7 +1923,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.301162001905292,
+            "meanError": 1.3011746767651269,
             "roundaboutSegs": 16,
             "extStart": 0,
             "extEnd": 0
@@ -1926,7 +1933,7 @@
           "dir": "1",
           "headsign": "Piața Mihai Viteazul Est Sosire",
           "variants": 1,
-          "tripCount": 75,
+          "tripCount": 1,
           "stops": 6,
           "lengthKm": 2.15,
           "stats": {
@@ -1937,7 +1944,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.7858350161892198,
+            "meanError": 0.785893847228169,
             "roundaboutSegs": 4,
             "extStart": 0,
             "extEnd": 0
@@ -1954,19 +1961,19 @@
           "dir": "0",
           "headsign": "Valea Chintăului",
           "variants": 1,
-          "tripCount": 65,
-          "stops": 19,
-          "lengthKm": 11.58,
+          "tripCount": 1,
+          "stops": 20,
+          "lengthKm": 10.9,
           "stats": {
-            "observations": 594,
-            "matched": 594,
+            "observations": 545,
+            "matched": 545,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.098922416332926,
-            "roundaboutSegs": 52,
+            "meanError": 0.6684618429867929,
+            "roundaboutSegs": 38,
             "extStart": 0,
             "extEnd": 0
           }
@@ -1975,68 +1982,19 @@
           "dir": "1",
           "headsign": "Piața Mihai Viteazul Est Sosire",
           "variants": 1,
-          "tripCount": 65,
-          "stops": 19,
-          "lengthKm": 11.31,
+          "tripCount": 1,
+          "stops": 20,
+          "lengthKm": 11.16,
           "stats": {
-            "observations": 588,
-            "matched": 588,
+            "observations": 555,
+            "matched": 555,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.9268564364151725,
-            "roundaboutSegs": 24,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "39 CREIC",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "CREIC Dus",
-          "variants": 1,
-          "tripCount": 38,
-          "stops": 2,
-          "lengthKm": 4.52,
-          "stats": {
-            "observations": 227,
-            "matched": 227,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.33149364799034947,
-            "roundaboutSegs": 10,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Vama Chinteni",
-          "variants": 1,
-          "tripCount": 38,
-          "stops": 2,
-          "lengthKm": 4.54,
-          "stats": {
-            "observations": 228,
-            "matched": 228,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.2856023495569606,
-            "roundaboutSegs": 14,
+            "meanError": 0.9623370935963983,
+            "roundaboutSegs": 36,
             "extStart": 0,
             "extEnd": 0
           }
@@ -2052,19 +2010,19 @@
           "dir": "0",
           "headsign": "Cătun Vest",
           "variants": 1,
-          "tripCount": 36,
-          "stops": 23,
-          "lengthKm": 14.69,
+          "tripCount": 1,
+          "stops": 22,
+          "lengthKm": 13.53,
           "stats": {
-            "observations": 730,
-            "matched": 730,
+            "observations": 677,
+            "matched": 677,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.9797990085719425,
-            "roundaboutSegs": 52,
+            "meanError": 0.5753012680682988,
+            "roundaboutSegs": 38,
             "extStart": 0,
             "extEnd": 0
           }
@@ -2073,19 +2031,19 @@
           "dir": "1",
           "headsign": "Piața Mihai Viteazul Est Sosire",
           "variants": 1,
-          "tripCount": 39,
-          "stops": 23,
-          "lengthKm": 14.51,
+          "tripCount": 1,
+          "stops": 22,
+          "lengthKm": 13.8,
           "stats": {
-            "observations": 724,
-            "matched": 724,
+            "observations": 687,
+            "matched": 687,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.8539188567088357,
-            "roundaboutSegs": 24,
+            "meanError": 0.8392637759788063,
+            "roundaboutSegs": 36,
             "extStart": 0,
             "extEnd": 0
           }
@@ -2101,7 +2059,7 @@
           "dir": "0",
           "headsign": "Vila Tusa Sosire",
           "variants": 1,
-          "tripCount": 8,
+          "tripCount": 1,
           "stops": 10,
           "lengthKm": 6.51,
           "stats": {
@@ -2112,7 +2070,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.20738658331501142,
+            "meanError": 0.2073790156426225,
             "roundaboutSegs": 16,
             "extStart": 0,
             "extEnd": 0
@@ -2122,7 +2080,7 @@
           "dir": "1",
           "headsign": "Posada",
           "variants": 1,
-          "tripCount": 6,
+          "tripCount": 1,
           "stops": 11,
           "lengthKm": 6.63,
           "stats": {
@@ -2133,7 +2091,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.4108475520452289,
+            "meanError": 0.4107907107562271,
             "roundaboutSegs": 20,
             "extStart": 0,
             "extEnd": 0
@@ -2150,19 +2108,19 @@
           "dir": "0",
           "headsign": "P-ța 1 Mai Sosire",
           "variants": 1,
-          "tripCount": 27,
+          "tripCount": 1,
           "stops": 11,
-          "lengthKm": 5.99,
+          "lengthKm": 6.4,
           "stats": {
-            "observations": 309,
-            "matched": 309,
+            "observations": 319,
+            "matched": 319,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.8231679691513041,
-            "roundaboutSegs": 7,
+            "meanError": 4.533588942352394,
+            "roundaboutSegs": 23,
             "extStart": 0,
             "extEnd": 0
           }
@@ -2171,19 +2129,19 @@
           "dir": "1",
           "headsign": "Disp. Grigorescu",
           "variants": 1,
-          "tripCount": 27,
+          "tripCount": 1,
           "stops": 12,
-          "lengthKm": 5.53,
+          "lengthKm": 5.69,
           "stats": {
-            "observations": 296,
-            "matched": 296,
+            "observations": 287,
+            "matched": 287,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.1705269262742968,
-            "roundaboutSegs": 15,
+            "meanError": 3.692699180875678,
+            "roundaboutSegs": 19,
             "extStart": 0,
             "extEnd": 0
           }
@@ -2197,9 +2155,9 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Biserica Câmpului",
+          "headsign": "Biserica Campului",
           "variants": 1,
-          "tripCount": 76,
+          "tripCount": 1,
           "stops": 9,
           "lengthKm": 6.93,
           "stats": {
@@ -2210,7 +2168,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.7828050429907836,
+            "meanError": 1.8083757915492928,
             "roundaboutSegs": 21,
             "extStart": 0,
             "extEnd": 0
@@ -2218,9 +2176,9 @@
         },
         {
           "dir": "1",
-          "headsign": "P-ța M.Viteazu Sosire",
+          "headsign": "P-ta M.Viteazu Sos",
           "variants": 1,
-          "tripCount": 77,
+          "tripCount": 1,
           "stops": 10,
           "lengthKm": 5.45,
           "stats": {
@@ -2231,7 +2189,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.9211420692480481,
+            "meanError": 0.9571387844928685,
             "roundaboutSegs": 24,
             "extStart": 0,
             "extEnd": 0
@@ -2248,7 +2206,7 @@
           "dir": "0",
           "headsign": "Observatorului Sud",
           "variants": 1,
-          "tripCount": 14,
+          "tripCount": 1,
           "stops": 12,
           "lengthKm": 6.99,
           "stats": {
@@ -2259,7 +2217,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.9423408697631406,
+            "meanError": 1.9423965000819177,
             "roundaboutSegs": 67,
             "extStart": 0,
             "extEnd": 0
@@ -2269,7 +2227,7 @@
           "dir": "1",
           "headsign": "Disp. Grigorescu",
           "variants": 1,
-          "tripCount": 16,
+          "tripCount": 1,
           "stops": 12,
           "lengthKm": 6.56,
           "stats": {
@@ -2280,7 +2238,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.5974941851087165,
+            "meanError": 1.5975822224597134,
             "roundaboutSegs": 92,
             "extStart": 0,
             "extEnd": 0
@@ -2297,7 +2255,7 @@
           "dir": "0",
           "headsign": "Dacia Service Sosire",
           "variants": 1,
-          "tripCount": 114,
+          "tripCount": 1,
           "stops": 17,
           "lengthKm": 9.59,
           "stats": {
@@ -2308,7 +2266,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.4687746634479124,
+            "meanError": 1.4687186419281066,
             "roundaboutSegs": 84,
             "extStart": 0,
             "extEnd": 0
@@ -2318,7 +2276,7 @@
           "dir": "1",
           "headsign": "Disp. Grigorescu",
           "variants": 1,
-          "tripCount": 114,
+          "tripCount": 1,
           "stops": 16,
           "lengthKm": 8.52,
           "stats": {
@@ -2329,7 +2287,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.524055065892502,
+            "meanError": 1.5243358300099612,
             "roundaboutSegs": 113,
             "extStart": 0,
             "extEnd": 0
@@ -2346,19 +2304,19 @@
           "dir": "0",
           "headsign": "Observatorului Sud",
           "variants": 1,
-          "tripCount": 54,
-          "stops": 10,
-          "lengthKm": 6.12,
+          "tripCount": 1,
+          "stops": 11,
+          "lengthKm": 6.51,
           "stats": {
-            "observations": 306,
-            "matched": 306,
+            "observations": 325,
+            "matched": 325,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.301949915915667,
-            "roundaboutSegs": 41,
+            "meanError": 7.3757013065041415,
+            "roundaboutSegs": 71,
             "extStart": 0,
             "extEnd": 0
           }
@@ -2367,19 +2325,19 @@
           "dir": "1",
           "headsign": "VIVO Sosire",
           "variants": 1,
-          "tripCount": 135,
+          "tripCount": 1,
           "stops": 11,
-          "lengthKm": 7.37,
+          "lengthKm": 6.72,
           "stats": {
-            "observations": 368,
-            "matched": 368,
+            "observations": 336,
+            "matched": 336,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.3471390319094971,
-            "roundaboutSegs": 95,
+            "meanError": 4.819106374683137,
+            "roundaboutSegs": 45,
             "extStart": 0,
             "extEnd": 0
           }
@@ -2395,19 +2353,19 @@
           "dir": "0",
           "headsign": "Soporului",
           "variants": 1,
-          "tripCount": 130,
+          "tripCount": 1,
           "stops": 17,
-          "lengthKm": 8.77,
+          "lengthKm": 9.38,
           "stats": {
-            "observations": 451,
-            "matched": 451,
+            "observations": 459,
+            "matched": 459,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.9489777124004921,
-            "roundaboutSegs": 30,
+            "meanError": 5.409892045123344,
+            "roundaboutSegs": 67,
             "extStart": 0,
             "extEnd": 0
           }
@@ -2416,19 +2374,19 @@
           "dir": "1",
           "headsign": "Disp. Grigorescu",
           "variants": 1,
-          "tripCount": 128,
+          "tripCount": 1,
           "stops": 19,
-          "lengthKm": 8.82,
+          "lengthKm": 8.86,
           "stats": {
-            "observations": 467,
-            "matched": 467,
+            "observations": 441,
+            "matched": 441,
             "noCandidates": 0,
-            "viterbiBreaks": 0,
+            "viterbiBreaks": 1,
             "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.171707966513237,
-            "roundaboutSegs": 42,
+            "rawStretchCount": 1,
+            "rawMeters": 20,
+            "meanError": 4.753272483412357,
+            "roundaboutSegs": 46,
             "extStart": 0,
             "extEnd": 0
           }
@@ -2444,7 +2402,7 @@
           "dir": "0",
           "headsign": "Disp. Unirii",
           "variants": 1,
-          "tripCount": 129,
+          "tripCount": 1,
           "stops": 22,
           "lengthKm": 10.69,
           "stats": {
@@ -2455,7 +2413,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.890767418002334,
+            "meanError": 2.8909091849438067,
             "roundaboutSegs": 47,
             "extStart": 0,
             "extEnd": 0
@@ -2465,7 +2423,7 @@
           "dir": "1",
           "headsign": "Disp. Zorilor",
           "variants": 1,
-          "tripCount": 129,
+          "tripCount": 1,
           "stops": 21,
           "lengthKm": 9.66,
           "stats": {
@@ -2476,7 +2434,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.8161261502343725,
+            "meanError": 0.8162421457898921,
             "roundaboutSegs": 95,
             "extStart": 0,
             "extEnd": 0
@@ -2493,7 +2451,7 @@
           "dir": "0",
           "headsign": "Teatru",
           "variants": 1,
-          "tripCount": 18,
+          "tripCount": 1,
           "stops": 11,
           "lengthKm": 6.12,
           "stats": {
@@ -2504,7 +2462,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.3693692106888968,
+            "meanError": 1.3693470334502662,
             "roundaboutSegs": 32,
             "extStart": 0,
             "extEnd": 0
@@ -2514,7 +2472,7 @@
           "dir": "1",
           "headsign": "Luminii",
           "variants": 1,
-          "tripCount": 20,
+          "tripCount": 1,
           "stops": 8,
           "lengthKm": 4.96,
           "stats": {
@@ -2525,7 +2483,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.207038841957291,
+            "meanError": 1.2070369482218473,
             "roundaboutSegs": 40,
             "extStart": 0,
             "extEnd": 0
@@ -2542,7 +2500,7 @@
           "dir": "0",
           "headsign": "Disp. IRA",
           "variants": 1,
-          "tripCount": 139,
+          "tripCount": 1,
           "stops": 14,
           "lengthKm": 6.87,
           "stats": {
@@ -2553,7 +2511,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.4480458595963899,
+            "meanError": 1.4479627169564293,
             "roundaboutSegs": 10,
             "extStart": 0,
             "extEnd": 0
@@ -2563,7 +2521,7 @@
           "dir": "1",
           "headsign": "Disp. Zorilor",
           "variants": 1,
-          "tripCount": 139,
+          "tripCount": 1,
           "stops": 13,
           "lengthKm": 7.01,
           "stats": {
@@ -2574,7 +2532,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.5399101233376375,
+            "meanError": 1.5401041060138734,
             "roundaboutSegs": 29,
             "extStart": 0,
             "extEnd": 0
@@ -2591,7 +2549,7 @@
           "dir": "0",
           "headsign": "Vila Tusa Sosire",
           "variants": 1,
-          "tripCount": 38,
+          "tripCount": 1,
           "stops": 13,
           "lengthKm": 8.24,
           "stats": {
@@ -2602,7 +2560,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.2599884549606628,
+            "meanError": 1.2600453700127618,
             "roundaboutSegs": 32,
             "extStart": 0,
             "extEnd": 0
@@ -2612,7 +2570,7 @@
           "dir": "1",
           "headsign": "P-ța Avram Iancu",
           "variants": 1,
-          "tripCount": 42,
+          "tripCount": 1,
           "stops": 13,
           "lengthKm": 8.51,
           "stats": {
@@ -2623,7 +2581,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.2030472308834237,
+            "meanError": 1.2031350420321998,
             "roundaboutSegs": 19,
             "extStart": 0,
             "extEnd": 0
@@ -2640,7 +2598,7 @@
           "dir": "0",
           "headsign": "Disp. IRA",
           "variants": 1,
-          "tripCount": 177,
+          "tripCount": 1,
           "stops": 12,
           "lengthKm": 5.23,
           "stats": {
@@ -2651,7 +2609,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.0758338187994836,
+            "meanError": 3.0759711483694727,
             "roundaboutSegs": 18,
             "extStart": 0,
             "extEnd": 0
@@ -2661,7 +2619,7 @@
           "dir": "1",
           "headsign": "P-ța M. Viteazul Sud",
           "variants": 1,
-          "tripCount": 176,
+          "tripCount": 1,
           "stops": 13,
           "lengthKm": 5.69,
           "stats": {
@@ -2672,7 +2630,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.6308798777407723,
+            "meanError": 1.669910121034442,
             "roundaboutSegs": 22,
             "extStart": 0,
             "extEnd": 0
@@ -2689,7 +2647,7 @@
           "dir": "0",
           "headsign": "ERS CUG S.",
           "variants": 1,
-          "tripCount": 116,
+          "tripCount": 1,
           "stops": 17,
           "lengthKm": 7.84,
           "stats": {
@@ -2700,7 +2658,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.179159555375169,
+            "meanError": 2.179194713993755,
             "roundaboutSegs": 61,
             "extStart": 0,
             "extEnd": 0
@@ -2708,9 +2666,9 @@
         },
         {
           "dir": "1",
-          "headsign": "Băișoara Sosire",
+          "headsign": "Baisoara Sos",
           "variants": 1,
-          "tripCount": 116,
+          "tripCount": 1,
           "stops": 17,
           "lengthKm": 7.86,
           "stats": {
@@ -2721,7 +2679,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.0714006192209795,
+            "meanError": 2.0398239501229676,
             "roundaboutSegs": 92,
             "extStart": 0,
             "extEnd": 0
@@ -2736,11 +2694,11 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Emerson Sosire",
+          "headsign": "Emerson Sos.",
           "variants": 1,
-          "tripCount": 21,
+          "tripCount": 1,
           "stops": 21,
-          "lengthKm": 10.34,
+          "lengthKm": 10.35,
           "stats": {
             "observations": 529,
             "matched": 529,
@@ -2749,7 +2707,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.068138169391129,
+            "meanError": 1.0700205248105468,
             "roundaboutSegs": 71,
             "extStart": 0,
             "extEnd": 0
@@ -2757,9 +2715,9 @@
         },
         {
           "dir": "1",
-          "headsign": "Băișoara Sosire",
+          "headsign": "Baisoara Sos",
           "variants": 1,
-          "tripCount": 21,
+          "tripCount": 1,
           "stops": 20,
           "lengthKm": 10.41,
           "stats": {
@@ -2770,7 +2728,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.317131770609344,
+            "meanError": 0.34719237607034364,
             "roundaboutSegs": 102,
             "extStart": 0,
             "extEnd": 0
@@ -2787,19 +2745,19 @@
           "dir": "0",
           "headsign": "ERS CUG S.",
           "variants": 1,
-          "tripCount": 7,
+          "tripCount": 1,
           "stops": 19,
-          "lengthKm": 10.2,
+          "lengthKm": 9.96,
           "stats": {
-            "observations": 510,
-            "matched": 510,
+            "observations": 531,
+            "matched": 531,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.4626484490597316,
-            "roundaboutSegs": 43,
+            "meanError": 2.4539350733659884,
+            "roundaboutSegs": 30,
             "extStart": 0,
             "extEnd": 0
           }
@@ -2808,19 +2766,19 @@
           "dir": "1",
           "headsign": "Disp. Zorilor",
           "variants": 1,
-          "tripCount": 8,
+          "tripCount": 1,
           "stops": 17,
-          "lengthKm": 9.96,
+          "lengthKm": 10.01,
           "stats": {
-            "observations": 497,
-            "matched": 497,
+            "observations": 513,
+            "matched": 513,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.4912709846636787,
-            "roundaboutSegs": 53,
+            "meanError": 2.265004175691007,
+            "roundaboutSegs": 51,
             "extStart": 0,
             "extEnd": 0
           }
@@ -2833,22 +2791,43 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "Panselutelor 9",
+          "dir": "0",
           "headsign": "Panselutelor 9",
           "variants": 1,
-          "tripCount": 30,
+          "tripCount": 1,
           "stops": 21,
-          "lengthKm": 12.82,
+          "lengthKm": 12.6,
           "stats": {
-            "observations": 654,
-            "matched": 654,
+            "observations": 661,
+            "matched": 661,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.586146646081107,
-            "roundaboutSegs": 29,
+            "meanError": 2.089670414918032,
+            "roundaboutSegs": 25,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Disp. Zorilor",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 22,
+          "lengthKm": 13.05,
+          "stats": {
+            "observations": 658,
+            "matched": 658,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6127474744380856,
+            "roundaboutSegs": 57,
             "extStart": 0,
             "extEnd": 0
           }
@@ -2862,9 +2841,9 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Emerson Sosire",
+          "headsign": "Emerson Sos.",
           "variants": 1,
-          "tripCount": 11,
+          "tripCount": 1,
           "stops": 23,
           "lengthKm": 12.26,
           "stats": {
@@ -2875,7 +2854,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.2976817912043943,
+            "meanError": 1.297913900011511,
             "roundaboutSegs": 41,
             "extStart": 0,
             "extEnd": 0
@@ -2885,7 +2864,7 @@
           "dir": "1",
           "headsign": "Disp. Zorilor",
           "variants": 1,
-          "tripCount": 11,
+          "tripCount": 1,
           "stops": 21,
           "lengthKm": 12.59,
           "stats": {
@@ -2896,7 +2875,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.7968946008162048,
+            "meanError": 0.7972000133996885,
             "roundaboutSegs": 62,
             "extStart": 0,
             "extEnd": 0
@@ -2913,19 +2892,19 @@
           "dir": "0",
           "headsign": "Timișului Sosire",
           "variants": 1,
-          "tripCount": 17,
+          "tripCount": 1,
           "stops": 21,
-          "lengthKm": 10.37,
+          "lengthKm": 9.99,
           "stats": {
-            "observations": 522,
-            "matched": 522,
+            "observations": 535,
+            "matched": 535,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.8152721246219177,
-            "roundaboutSegs": 11,
+            "meanError": 5.324777204121935,
+            "roundaboutSegs": 21,
             "extStart": 0,
             "extEnd": 0
           }
@@ -2934,19 +2913,19 @@
           "dir": "1",
           "headsign": "Disp. Bucium",
           "variants": 1,
-          "tripCount": 17,
+          "tripCount": 1,
           "stops": 19,
-          "lengthKm": 10.56,
+          "lengthKm": 10.23,
           "stats": {
-            "observations": 530,
-            "matched": 530,
+            "observations": 510,
+            "matched": 510,
             "noCandidates": 0,
-            "viterbiBreaks": 0,
+            "viterbiBreaks": 2,
             "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.575257207515451,
-            "roundaboutSegs": 25,
+            "rawStretchCount": 2,
+            "rawMeters": 40,
+            "meanError": 4.699958650556411,
+            "roundaboutSegs": 17,
             "extStart": 0,
             "extEnd": 0
           }
@@ -2962,18 +2941,18 @@
           "dir": "0",
           "headsign": "Emerson Sosire",
           "variants": 1,
-          "tripCount": 10,
+          "tripCount": 1,
           "stops": 27,
-          "lengthKm": 13.2,
+          "lengthKm": 12.9,
           "stats": {
-            "observations": 676,
-            "matched": 676,
+            "observations": 677,
+            "matched": 677,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.8143570316470188,
+            "meanError": 4.415050469030088,
             "roundaboutSegs": 39,
             "extStart": 0,
             "extEnd": 0
@@ -2983,19 +2962,19 @@
           "dir": "1",
           "headsign": "Academia de Muzica",
           "variants": 1,
-          "tripCount": 9,
+          "tripCount": 1,
           "stops": 25,
-          "lengthKm": 14.02,
+          "lengthKm": 13.61,
           "stats": {
-            "observations": 714,
-            "matched": 714,
+            "observations": 676,
+            "matched": 676,
             "noCandidates": 0,
-            "viterbiBreaks": 0,
+            "viterbiBreaks": 2,
             "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.0250456911745685,
-            "roundaboutSegs": 47,
+            "rawStretchCount": 2,
+            "rawMeters": 40,
+            "meanError": 3.5320674406680705,
+            "roundaboutSegs": 52,
             "extStart": 0,
             "extEnd": 0
           }
@@ -3009,9 +2988,9 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "P-ța M. Viteazul Vest",
+          "headsign": "P-ta M. Viteazul Vest",
           "variants": 1,
-          "tripCount": 15,
+          "tripCount": 1,
           "stops": 8,
           "lengthKm": 4.57,
           "stats": {
@@ -3022,7 +3001,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.0456294056688338,
+            "meanError": 1.0457363746169457,
             "roundaboutSegs": 17,
             "extStart": 0,
             "extEnd": 0
@@ -3030,9 +3009,9 @@
         },
         {
           "dir": "1",
-          "headsign": "P-ța Agroalimentară IRA",
+          "headsign": "P-ta Agroalimentara IRA",
           "variants": 1,
-          "tripCount": 15,
+          "tripCount": 1,
           "stops": 8,
           "lengthKm": 4.86,
           "stats": {
@@ -3043,57 +3022,8 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.3841282603032188,
+            "meanError": 0.38408225662779516,
             "roundaboutSegs": 22,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "54N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Disp. Grigorescu",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 17,
-          "lengthKm": 9.07,
-          "stats": {
-            "observations": 469,
-            "matched": 469,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 4.170367002276667,
-            "roundaboutSegs": 21,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Ghe. Dima",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 15,
-          "lengthKm": 8.83,
-          "stats": {
-            "observations": 449,
-            "matched": 449,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.5783107726649668,
-            "roundaboutSegs": 50,
             "extStart": 0,
             "extEnd": 0
           }
@@ -3109,7 +3039,7 @@
           "dir": "0",
           "headsign": "Gheorghe Sion Vest",
           "variants": 1,
-          "tripCount": 18,
+          "tripCount": 1,
           "stops": 10,
           "lengthKm": 4.82,
           "stats": {
@@ -3120,7 +3050,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.22226057108921976,
+            "meanError": 0.24262087767054524,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -3130,7 +3060,7 @@
           "dir": "1",
           "headsign": "Pod Traian",
           "variants": 1,
-          "tripCount": 18,
+          "tripCount": 1,
           "stops": 9,
           "lengthKm": 4.23,
           "stats": {
@@ -3141,7 +3071,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.27597596427365695,
+            "meanError": 0.29926145933939613,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -3158,7 +3088,7 @@
           "dir": "0",
           "headsign": "Disp. Alverna",
           "variants": 1,
-          "tripCount": 20,
+          "tripCount": 1,
           "stops": 16,
           "lengthKm": 6.71,
           "stats": {
@@ -3169,7 +3099,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.22405268541874993,
+            "meanError": 0.22403289083507857,
             "roundaboutSegs": 42,
             "extStart": 0,
             "extEnd": 0
@@ -3179,7 +3109,7 @@
           "dir": "1",
           "headsign": "Jiului",
           "variants": 1,
-          "tripCount": 21,
+          "tripCount": 1,
           "stops": 19,
           "lengthKm": 8.26,
           "stats": {
@@ -3190,7 +3120,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.23204838233859304,
+            "meanError": 0.23209267499729855,
             "roundaboutSegs": 63,
             "extStart": 0,
             "extEnd": 0
@@ -3207,7 +3137,7 @@
           "dir": "0",
           "headsign": "EMERSON",
           "variants": 1,
-          "tripCount": 4,
+          "tripCount": 1,
           "stops": 24,
           "lengthKm": 11.75,
           "stats": {
@@ -3218,7 +3148,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.574161318844237,
+            "meanError": 3.5741879795368288,
             "roundaboutSegs": 61,
             "extStart": 0,
             "extEnd": 0
@@ -3228,7 +3158,7 @@
           "dir": "1",
           "headsign": "Disp. Alverna",
           "variants": 1,
-          "tripCount": 3,
+          "tripCount": 1,
           "stops": 20,
           "lengthKm": 11.51,
           "stats": {
@@ -3239,7 +3169,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.1020698905764335,
+            "meanError": 1.1020442398296522,
             "roundaboutSegs": 109,
             "extStart": 0,
             "extEnd": 0
@@ -3253,43 +3183,22 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "0",
+          "dir": "Aeroport Terminal",
           "headsign": "Aeroport Terminal",
           "variants": 1,
-          "tripCount": 27,
-          "stops": 8,
-          "lengthKm": 8.29,
+          "tripCount": 1,
+          "stops": 17,
+          "lengthKm": 16.66,
           "stats": {
-            "observations": 408,
-            "matched": 408,
+            "observations": 838,
+            "matched": 838,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.3104628238156146,
-            "roundaboutSegs": 24,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "P-ța M. Viteazul Vest",
-          "variants": 1,
-          "tripCount": 27,
-          "stops": 11,
-          "lengthKm": 9.19,
-          "stats": {
-            "observations": 459,
-            "matched": 459,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.2558611843428404,
-            "roundaboutSegs": 11,
+            "meanError": 1.206653825989022,
+            "roundaboutSegs": 30,
             "extStart": 0,
             "extEnd": 0
           }
@@ -3305,7 +3214,7 @@
           "dir": "0",
           "headsign": "M-Releu Sosire",
           "variants": 1,
-          "tripCount": 30,
+          "tripCount": 1,
           "stops": 10,
           "lengthKm": 8.58,
           "stats": {
@@ -3316,7 +3225,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.30759640824599793,
+            "meanError": 0.3076172924804233,
             "roundaboutSegs": 37,
             "extStart": 0,
             "extEnd": 0
@@ -3326,7 +3235,7 @@
           "dir": "1",
           "headsign": "Posada",
           "variants": 1,
-          "tripCount": 30,
+          "tripCount": 1,
           "stops": 11,
           "lengthKm": 8.42,
           "stats": {
@@ -3337,7 +3246,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.29102539335394056,
+            "meanError": 0.2910545074102792,
             "roundaboutSegs": 15,
             "extStart": 0,
             "extEnd": 0
@@ -3354,7 +3263,7 @@
           "dir": "0",
           "headsign": "M-Biserica Vâlcele Sos",
           "variants": 1,
-          "tripCount": 31,
+          "tripCount": 1,
           "stops": 19,
           "lengthKm": 20.21,
           "stats": {
@@ -3365,7 +3274,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.25059326218926387,
+            "meanError": 0.2505876954376823,
             "roundaboutSegs": 35,
             "extStart": 0,
             "extEnd": 0
@@ -3375,7 +3284,7 @@
           "dir": "1",
           "headsign": "Posada",
           "variants": 1,
-          "tripCount": 30,
+          "tripCount": 1,
           "stops": 20,
           "lengthKm": 20.23,
           "stats": {
@@ -3386,7 +3295,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.34699673069014914,
+            "meanError": 0.34703331416811833,
             "roundaboutSegs": 24,
             "extStart": 0,
             "extEnd": 0
@@ -3403,7 +3312,7 @@
           "dir": "0",
           "headsign": "M-Școala Gheorgheni S",
           "variants": 1,
-          "tripCount": 27,
+          "tripCount": 1,
           "stops": 15,
           "lengthKm": 9.93,
           "stats": {
@@ -3414,7 +3323,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.26261047699578477,
+            "meanError": 0.2626835677581763,
             "roundaboutSegs": 14,
             "extStart": 0,
             "extEnd": 0
@@ -3424,7 +3333,7 @@
           "dir": "1",
           "headsign": "Posada",
           "variants": 1,
-          "tripCount": 27,
+          "tripCount": 1,
           "stops": 16,
           "lengthKm": 10.54,
           "stats": {
@@ -3435,7 +3344,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.29474215085429795,
+            "meanError": 0.294758984612769,
             "roundaboutSegs": 19,
             "extStart": 0,
             "extEnd": 0
@@ -3452,7 +3361,7 @@
           "dir": "0",
           "headsign": "M-Primăria Ciurila",
           "variants": 1,
-          "tripCount": 11,
+          "tripCount": 1,
           "stops": 11,
           "lengthKm": 17.4,
           "stats": {
@@ -3463,7 +3372,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.2516580841458481,
+            "meanError": 0.2516476446441062,
             "roundaboutSegs": 16,
             "extStart": 0,
             "extEnd": 0
@@ -3473,7 +3382,7 @@
           "dir": "1",
           "headsign": "Posada",
           "variants": 1,
-          "tripCount": 11,
+          "tripCount": 1,
           "stops": 10,
           "lengthKm": 17.5,
           "stats": {
@@ -3484,7 +3393,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.3231327454564497,
+            "meanError": 0.32319480369037246,
             "roundaboutSegs": 20,
             "extStart": 0,
             "extEnd": 0
@@ -3498,10 +3407,10 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "Biserica lemn Saliste",
+          "dir": "0",
           "headsign": "Biserica lemn Saliste",
           "variants": 1,
-          "tripCount": 4,
+          "tripCount": 1,
           "stops": 2,
           "lengthKm": 16.7,
           "stats": {
@@ -3512,8 +3421,29 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.1421564065686294,
+            "meanError": 1.142160228153806,
             "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Posada",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 2,
+          "lengthKm": 16.78,
+          "stats": {
+            "observations": 834,
+            "matched": 786,
+            "noCandidates": 48,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2166366731351739,
+            "roundaboutSegs": 33,
             "extStart": 0,
             "extEnd": 0
           }
@@ -3529,7 +3459,7 @@
           "dir": "0",
           "headsign": "Filea de sus",
           "variants": 1,
-          "tripCount": 2,
+          "tripCount": 1,
           "stops": 3,
           "lengthKm": 24.23,
           "stats": {
@@ -3540,7 +3470,7 @@
             "bridged": 0,
             "rawStretchCount": 5,
             "rawMeters": 1843,
-            "meanError": 0.8312325974258782,
+            "meanError": 0.831191487665525,
             "roundaboutSegs": 11,
             "extStart": 0,
             "extEnd": 0
@@ -3550,7 +3480,7 @@
           "dir": "1",
           "headsign": "Posada",
           "variants": 1,
-          "tripCount": 2,
+          "tripCount": 1,
           "stops": 3,
           "lengthKm": 24.27,
           "stats": {
@@ -3561,7 +3491,7 @@
             "bridged": 0,
             "rawStretchCount": 3,
             "rawMeters": 1802,
-            "meanError": 0.810953040218344,
+            "meanError": 0.8109673675256612,
             "roundaboutSegs": 29,
             "extStart": 0,
             "extEnd": 0
@@ -3578,18 +3508,18 @@
           "dir": "0",
           "headsign": "M-Str. Retezat",
           "variants": 1,
-          "tripCount": 160,
-          "stops": 12,
-          "lengthKm": 7.54,
+          "tripCount": 1,
+          "stops": 13,
+          "lengthKm": 7.42,
           "stats": {
-            "observations": 383,
-            "matched": 383,
+            "observations": 389,
+            "matched": 389,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.8282799861497145,
+            "meanError": 2.3995576588720495,
             "roundaboutSegs": 3,
             "extStart": 0,
             "extEnd": 0
@@ -3599,18 +3529,18 @@
           "dir": "1",
           "headsign": "Disp. Bucium",
           "variants": 1,
-          "tripCount": 170,
+          "tripCount": 1,
           "stops": 13,
-          "lengthKm": 6.93,
+          "lengthKm": 6.94,
           "stats": {
-            "observations": 347,
-            "matched": 347,
+            "observations": 346,
+            "matched": 346,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.116610707046437,
+            "meanError": 6.028214133108711,
             "roundaboutSegs": 9,
             "extStart": 0,
             "extEnd": 0
@@ -3624,22 +3554,43 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "M-Sesu de Sus Sosire",
+          "dir": "0",
           "headsign": "M-Sesu de Sus Sosire",
           "variants": 1,
-          "tripCount": 263,
-          "stops": 12,
+          "tripCount": 1,
+          "stops": 13,
           "lengthKm": 6.98,
           "stats": {
-            "observations": 358,
-            "matched": 358,
+            "observations": 369,
+            "matched": 369,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 4.8163960710590334,
+            "meanError": 3.4435010749870933,
             "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Disp. Bucium",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 14,
+          "lengthKm": 6.96,
+          "stats": {
+            "observations": 353,
+            "matched": 353,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.613815814475834,
+            "roundaboutSegs": 25,
             "extStart": 0,
             "extEnd": 0
           }
@@ -3652,22 +3603,43 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "Calvaria Auto Sosire",
-          "headsign": "Calvaria Auto Sosire",
+          "dir": "0",
+          "headsign": "M-Bis. Ortodoxă Sos (Luna)",
           "variants": 1,
-          "tripCount": 45,
-          "stops": 18,
-          "lengthKm": 10.47,
+          "tripCount": 1,
+          "stops": 15,
+          "lengthKm": 9.79,
           "stats": {
-            "observations": 534,
-            "matched": 534,
+            "observations": 507,
+            "matched": 507,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.9684445430793192,
-            "roundaboutSegs": 19,
+            "meanError": 2.571013022383069,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Calvaria Auto Sosire",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 18,
+          "lengthKm": 11.16,
+          "stats": {
+            "observations": 555,
+            "matched": 555,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.96104512848818,
+            "roundaboutSegs": 25,
             "extStart": 0,
             "extEnd": 0
           }
@@ -3681,43 +3653,43 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "M-Ferma 9 Sos (Florești)",
+          "headsign": "M-Urbano Floresti",
           "variants": 1,
-          "tripCount": 3,
+          "tripCount": 1,
           "stops": 12,
-          "lengthKm": 8.19,
+          "lengthKm": 8.49,
           "stats": {
-            "observations": 412,
-            "matched": 412,
+            "observations": 416,
+            "matched": 416,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.4328005829350012,
-            "roundaboutSegs": 5,
+            "meanError": 4.311835159359503,
+            "roundaboutSegs": 24,
             "extStart": 0,
-            "extEnd": 0
+            "extEnd": 204
           }
         },
         {
           "dir": "1",
-          "headsign": "Disp. Bucium",
+          "headsign": "P-ța Flora",
           "variants": 1,
-          "tripCount": 3,
-          "stops": 13,
-          "lengthKm": 7.46,
+          "tripCount": 1,
+          "stops": 12,
+          "lengthKm": 8.5,
           "stats": {
-            "observations": 378,
-            "matched": 378,
+            "observations": 411,
+            "matched": 411,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.4541975582709865,
-            "roundaboutSegs": 19,
-            "extStart": 0,
+            "meanError": 3.9807123097115604,
+            "roundaboutSegs": 33,
+            "extStart": 267,
             "extEnd": 0
           }
         }
@@ -3729,10 +3701,10 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "M-Tăuți Sosire",
+          "dir": "0",
           "headsign": "M-Tăuți Sosire",
           "variants": 1,
-          "tripCount": 8,
+          "tripCount": 1,
           "stops": 12,
           "lengthKm": 9.32,
           "stats": {
@@ -3743,8 +3715,29 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.3286328233892028,
+            "meanError": 0.32860786785547286,
             "roundaboutSegs": 3,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Disp. Bucium",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 13,
+          "lengthKm": 8.95,
+          "stats": {
+            "observations": 450,
+            "matched": 450,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.4121469703929652,
+            "roundaboutSegs": 9,
             "extStart": 0,
             "extEnd": 0
           }
@@ -3757,22 +3750,43 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "P-ța M. Viteazul Sud",
+          "dir": "0",
           "headsign": "P-ța M. Viteazul Sud",
           "variants": 1,
-          "tripCount": 134,
+          "tripCount": 1,
           "stops": 17,
-          "lengthKm": 10.9,
+          "lengthKm": 10.78,
           "stats": {
-            "observations": 559,
-            "matched": 559,
+            "observations": 543,
+            "matched": 543,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.989388872214457,
-            "roundaboutSegs": 14,
+            "meanError": 4.21073775656611,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "M-Str. Retezat",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 18,
+          "lengthKm": 11.68,
+          "stats": {
+            "observations": 599,
+            "matched": 599,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.623580559386147,
+            "roundaboutSegs": 22,
             "extStart": 0,
             "extEnd": 0
           }
@@ -3788,19 +3802,19 @@
           "dir": "0",
           "headsign": "M-Razoare Vest",
           "variants": 1,
-          "tripCount": 43,
-          "stops": 10,
-          "lengthKm": 5.87,
+          "tripCount": 1,
+          "stops": 11,
+          "lengthKm": 6.01,
           "stats": {
-            "observations": 295,
-            "matched": 295,
+            "observations": 330,
+            "matched": 330,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.40179594734645324,
-            "roundaboutSegs": 16,
+            "meanError": 3.5468044091671342,
+            "roundaboutSegs": 8,
             "extStart": 0,
             "extEnd": 0
           }
@@ -3809,18 +3823,18 @@
           "dir": "1",
           "headsign": "Disp. Bucium",
           "variants": 1,
-          "tripCount": 45,
+          "tripCount": 1,
           "stops": 6,
-          "lengthKm": 2.99,
+          "lengthKm": 2.57,
           "stats": {
-            "observations": 151,
-            "matched": 151,
-            "noCandidates": 0,
+            "observations": 128,
+            "matched": 123,
+            "noCandidates": 5,
             "viterbiBreaks": 0,
             "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.6326579178762379,
+            "rawStretchCount": 1,
+            "rawMeters": 120,
+            "meanError": 12.02212770017286,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -3837,18 +3851,18 @@
           "dir": "0",
           "headsign": "M-Complex Baciu Sos",
           "variants": 1,
-          "tripCount": 107,
+          "tripCount": 1,
           "stops": 15,
-          "lengthKm": 8.08,
+          "lengthKm": 8.02,
           "stats": {
-            "observations": 407,
-            "matched": 407,
+            "observations": 410,
+            "matched": 410,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.3250502316984658,
+            "meanError": 1.0681254288890414,
             "roundaboutSegs": 4,
             "extStart": 0,
             "extEnd": 0
@@ -3858,19 +3872,19 @@
           "dir": "1",
           "headsign": "Piața Mihai Viteazul Est Sosire",
           "variants": 1,
-          "tripCount": 111,
-          "stops": 16,
-          "lengthKm": 8.02,
+          "tripCount": 1,
+          "stops": 14,
+          "lengthKm": 8.14,
           "stats": {
-            "observations": 402,
-            "matched": 402,
+            "observations": 404,
+            "matched": 404,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.375694851896333,
-            "roundaboutSegs": 9,
+            "meanError": 1.162154069729675,
+            "roundaboutSegs": 24,
             "extStart": 0,
             "extEnd": 0
           }
@@ -3884,9 +3898,9 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "M-Suceagu",
+          "headsign": "M-Suceagu ",
           "variants": 1,
-          "tripCount": 21,
+          "tripCount": 1,
           "stops": 15,
           "lengthKm": 14.01,
           "stats": {
@@ -3897,7 +3911,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.24224454656750113,
+            "meanError": 0.2487819068854754,
             "roundaboutSegs": 4,
             "extStart": 0,
             "extEnd": 0
@@ -3907,7 +3921,7 @@
           "dir": "1",
           "headsign": "Gara Mică Sosire",
           "variants": 1,
-          "tripCount": 21,
+          "tripCount": 1,
           "stops": 18,
           "lengthKm": 15.48,
           "stats": {
@@ -3918,7 +3932,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.43804742712667627,
+            "meanError": 0.44755404313479363,
             "roundaboutSegs": 24,
             "extStart": 0,
             "extEnd": 0
@@ -3932,10 +3946,10 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "M-Săliștea Noua Sosire",
-          "headsign": "M-Săliștea Noua Sosire",
+          "dir": "0",
+          "headsign": "M-Salistea Noua Sos",
           "variants": 1,
-          "tripCount": 40,
+          "tripCount": 1,
           "stops": 10,
           "lengthKm": 14.65,
           "stats": {
@@ -3946,8 +3960,29 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.4087959321000227,
+            "meanError": 1.4105300278871074,
             "roundaboutSegs": 4,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Gara Mica Sos.",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 13,
+          "lengthKm": 16.17,
+          "stats": {
+            "observations": 807,
+            "matched": 807,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.329221706169449,
+            "roundaboutSegs": 24,
             "extStart": 0,
             "extEnd": 0
           }
@@ -3960,10 +3995,10 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "M - Teren Fotbal Mera",
+          "dir": "0",
           "headsign": "M - Teren Fotbal Mera",
           "variants": 1,
-          "tripCount": 44,
+          "tripCount": 1,
           "stops": 15,
           "lengthKm": 14.21,
           "stats": {
@@ -3974,8 +4009,29 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.21436934649465278,
+            "meanError": 0.22050033372715497,
             "roundaboutSegs": 4,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Gara Mică Sosire",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 18,
+          "lengthKm": 15.69,
+          "stats": {
+            "observations": 782,
+            "matched": 782,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.4274762192981442,
+            "roundaboutSegs": 24,
             "extStart": 0,
             "extEnd": 0
           }
@@ -3989,9 +4045,9 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "M-Monument Popești Sos",
+          "headsign": "M-Monument Popesti Sos",
           "variants": 1,
-          "tripCount": 2,
+          "tripCount": 1,
           "stops": 5,
           "lengthKm": 7.82,
           "stats": {
@@ -4002,7 +4058,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.8799064018141732,
+            "meanError": 0.8832643058677375,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -4010,9 +4066,9 @@
         },
         {
           "dir": "1",
-          "headsign": "Gara Mică Sosire",
+          "headsign": "Gara Mica Sos.",
           "variants": 1,
-          "tripCount": 2,
+          "tripCount": 1,
           "stops": 6,
           "lengthKm": 8.04,
           "stats": {
@@ -4023,7 +4079,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.8902901352449801,
+            "meanError": 0.8928400180029005,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -4037,10 +4093,10 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "M-Feiurdeni Sosire",
-          "headsign": "M-Feiurdeni Sosire",
+          "dir": "0",
+          "headsign": "M-Feiurdeni Sos",
           "variants": 1,
-          "tripCount": 4,
+          "tripCount": 1,
           "stops": 9,
           "lengthKm": 16.26,
           "stats": {
@@ -4051,8 +4107,29 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.5015938096603432,
+            "meanError": 1.5015028479191503,
             "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Gara Mica Sos.",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 9,
+          "lengthKm": 16.2,
+          "stats": {
+            "observations": 811,
+            "matched": 811,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6658968925120674,
+            "roundaboutSegs": 5,
             "extStart": 0,
             "extEnd": 0
           }
@@ -4065,10 +4142,31 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "Gara Mică Sosire",
+          "dir": "0",
+          "headsign": "M-Macicasu",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 19,
+          "lengthKm": 21.7,
+          "stats": {
+            "observations": 1088,
+            "matched": 1088,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.24787863702245702,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
           "headsign": "Gara Mică Sosire",
           "variants": 1,
-          "tripCount": 12,
+          "tripCount": 1,
           "stops": 20,
           "lengthKm": 21.6,
           "stats": {
@@ -4079,7 +4177,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.2214811176622454,
+            "meanError": 0.22148780056364287,
             "roundaboutSegs": 14,
             "extStart": 0,
             "extEnd": 0
@@ -4096,7 +4194,7 @@
           "dir": "0",
           "headsign": "M-Chinteni Lac Sosire",
           "variants": 1,
-          "tripCount": 21,
+          "tripCount": 1,
           "stops": 14,
           "lengthKm": 15.02,
           "stats": {
@@ -4107,7 +4205,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.5215951735796646,
+            "meanError": 0.5215763499836321,
             "roundaboutSegs": 14,
             "extStart": 0,
             "extEnd": 0
@@ -4117,7 +4215,7 @@
           "dir": "1",
           "headsign": "Gara Mică Sosire",
           "variants": 1,
-          "tripCount": 23,
+          "tripCount": 1,
           "stops": 15,
           "lengthKm": 14.89,
           "stats": {
@@ -4128,7 +4226,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.5708693849937818,
+            "meanError": 0.570935496542939,
             "roundaboutSegs": 17,
             "extStart": 0,
             "extEnd": 0
@@ -4145,18 +4243,18 @@
           "dir": "0",
           "headsign": "M-Vechea N",
           "variants": 1,
-          "tripCount": 7,
+          "tripCount": 1,
           "stops": 16,
-          "lengthKm": 18.77,
+          "lengthKm": 18.43,
           "stats": {
-            "observations": 941,
-            "matched": 941,
+            "observations": 923,
+            "matched": 923,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.31706186759143795,
+            "meanError": 0.2420634703539616,
             "roundaboutSegs": 14,
             "extStart": 0,
             "extEnd": 0
@@ -4166,19 +4264,19 @@
           "dir": "1",
           "headsign": "Gara Mică Sosire",
           "variants": 1,
-          "tripCount": 8,
+          "tripCount": 1,
           "stops": 17,
-          "lengthKm": 18.66,
+          "lengthKm": 18.2,
           "stats": {
-            "observations": 933,
-            "matched": 933,
+            "observations": 911,
+            "matched": 911,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.27790361400007174,
-            "roundaboutSegs": 14,
+            "meanError": 0.38676916939313766,
+            "roundaboutSegs": 16,
             "extStart": 0,
             "extEnd": 0
           }
@@ -4194,7 +4292,7 @@
           "dir": "0",
           "headsign": "M-Ferma Apahida",
           "variants": 1,
-          "tripCount": 55,
+          "tripCount": 1,
           "stops": 21,
           "lengthKm": 13.99,
           "stats": {
@@ -4205,7 +4303,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.0956323238895163,
+            "meanError": 1.1263257560006865,
             "roundaboutSegs": 56,
             "extStart": 0,
             "extEnd": 0
@@ -4215,7 +4313,7 @@
           "dir": "1",
           "headsign": "Arte Plastice",
           "variants": 1,
-          "tripCount": 55,
+          "tripCount": 1,
           "stops": 20,
           "lengthKm": 13.05,
           "stats": {
@@ -4226,7 +4324,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.0333964423668072,
+            "meanError": 1.064173757410686,
             "roundaboutSegs": 31,
             "extStart": 0,
             "extEnd": 0
@@ -4240,10 +4338,10 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "M-Grădinița Câmpenești S",
+          "dir": "0",
           "headsign": "M-Grădinița Câmpenești S",
           "variants": 1,
-          "tripCount": 74,
+          "tripCount": 1,
           "stops": 22,
           "lengthKm": 16.12,
           "stats": {
@@ -4254,8 +4352,29 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.3005505654515667,
+            "meanError": 0.3247299486485767,
             "roundaboutSegs": 63,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Arte Plastice",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 21,
+          "lengthKm": 15.44,
+          "stats": {
+            "observations": 776,
+            "matched": 776,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.29407576843514627,
+            "roundaboutSegs": 37,
             "extStart": 0,
             "extEnd": 0
           }
@@ -4271,7 +4390,7 @@
           "dir": "0",
           "headsign": "Guhring S",
           "variants": 1,
-          "tripCount": 4,
+          "tripCount": 1,
           "stops": 19,
           "lengthKm": 13.34,
           "stats": {
@@ -4282,7 +4401,7 @@
             "bridged": 0,
             "rawStretchCount": 2,
             "rawMeters": 39,
-            "meanError": 0.8986710656430555,
+            "meanError": 0.9287778260679361,
             "roundaboutSegs": 6,
             "extStart": 0,
             "extEnd": 0
@@ -4292,7 +4411,7 @@
           "dir": "1",
           "headsign": "Arte Plastice",
           "variants": 1,
-          "tripCount": 4,
+          "tripCount": 1,
           "stops": 18,
           "lengthKm": 11.71,
           "stats": {
@@ -4303,7 +4422,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.4281989418390361,
+            "meanError": 0.46003602136050203,
             "roundaboutSegs": 21,
             "extStart": 0,
             "extEnd": 0
@@ -4320,7 +4439,7 @@
           "dir": "0",
           "headsign": "N. Balcescu  S",
           "variants": 1,
-          "tripCount": 6,
+          "tripCount": 1,
           "stops": 17,
           "lengthKm": 10.54,
           "stats": {
@@ -4331,7 +4450,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.319432606714662,
+            "meanError": 1.358916615216761,
             "roundaboutSegs": 38,
             "extStart": 0,
             "extEnd": 0
@@ -4341,9 +4460,9 @@
           "dir": "1",
           "headsign": "Arte Plastice",
           "variants": 1,
-          "tripCount": 6,
+          "tripCount": 1,
           "stops": 18,
-          "lengthKm": 12.12,
+          "lengthKm": 12.13,
           "stats": {
             "observations": 617,
             "matched": 617,
@@ -4352,7 +4471,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.45787636765362133,
+            "meanError": 0.4899047183801746,
             "roundaboutSegs": 34,
             "extStart": 0,
             "extEnd": 0
@@ -4369,7 +4488,7 @@
           "dir": "0",
           "headsign": "M-Lacului",
           "variants": 1,
-          "tripCount": 23,
+          "tripCount": 1,
           "stops": 17,
           "lengthKm": 10.77,
           "stats": {
@@ -4380,7 +4499,7 @@
             "bridged": 0,
             "rawStretchCount": 2,
             "rawMeters": 39,
-            "meanError": 1.6126758908521475,
+            "meanError": 1.652208636225385,
             "roundaboutSegs": 4,
             "extStart": 0,
             "extEnd": 0
@@ -4390,7 +4509,7 @@
           "dir": "1",
           "headsign": "Arte Plastice",
           "variants": 1,
-          "tripCount": 26,
+          "tripCount": 1,
           "stops": 19,
           "lengthKm": 11.25,
           "stats": {
@@ -4401,7 +4520,7 @@
             "bridged": 0,
             "rawStretchCount": 2,
             "rawMeters": 40,
-            "meanError": 1.6200155227230753,
+            "meanError": 1.6546660062347243,
             "roundaboutSegs": 12,
             "extStart": 0,
             "extEnd": 0
@@ -4416,9 +4535,9 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "M-Biserica Corpadea Sosire",
+          "headsign": "M-Biserica Corpadea Sos",
           "variants": 1,
-          "tripCount": 3,
+          "tripCount": 1,
           "stops": 15,
           "lengthKm": 21.77,
           "stats": {
@@ -4429,7 +4548,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.6200265833861498,
+            "meanError": 1.599935237161268,
             "roundaboutSegs": 35,
             "extStart": 0,
             "extEnd": 0
@@ -4439,7 +4558,7 @@
           "dir": "1",
           "headsign": "Arte Plastice",
           "variants": 1,
-          "tripCount": 4,
+          "tripCount": 1,
           "stops": 16,
           "lengthKm": 21.43,
           "stats": {
@@ -4450,7 +4569,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.6687960371033856,
+            "meanError": 1.6482507154903627,
             "roundaboutSegs": 27,
             "extStart": 0,
             "extEnd": 0
@@ -4465,9 +4584,9 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "M-Primărie Pata Sosire",
+          "headsign": "M-Primarie Pata Sos",
           "variants": 1,
-          "tripCount": 11,
+          "tripCount": 1,
           "stops": 7,
           "lengthKm": 15.89,
           "stats": {
@@ -4478,7 +4597,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.9095196674603325,
+            "meanError": 1.909576858147347,
             "roundaboutSegs": 6,
             "extStart": 0,
             "extEnd": 0
@@ -4488,7 +4607,7 @@
           "dir": "1",
           "headsign": "Arte Plastice",
           "variants": 1,
-          "tripCount": 11,
+          "tripCount": 1,
           "stops": 7,
           "lengthKm": 13.85,
           "stats": {
@@ -4499,7 +4618,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.7279701830293535,
+            "meanError": 1.7281133956775814,
             "roundaboutSegs": 2,
             "extStart": 0,
             "extEnd": 0
@@ -4516,19 +4635,68 @@
           "dir": "0",
           "headsign": "M Pensiunea Dalia Gilau Nord",
           "variants": 1,
-          "tripCount": 36,
-          "stops": 19,
-          "lengthKm": 18.94,
+          "tripCount": 1,
+          "stops": 20,
+          "lengthKm": 16.78,
           "stats": {
-            "observations": 987,
-            "matched": 987,
+            "observations": 899,
+            "matched": 886,
+            "noCandidates": 13,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 274,
+            "meanError": 2.037601977314924,
+            "roundaboutSegs": 36,
+            "extStart": 0,
+            "extEnd": 256
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Disp. Bucium",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 20,
+          "lengthKm": 15.62,
+          "stats": {
+            "observations": 777,
+            "matched": 764,
+            "noCandidates": 13,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 276,
+            "meanError": 3.5994884603610404,
+            "roundaboutSegs": 59,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "M51U",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "M Pensiunea Dalia Gilau Nord",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 21,
+          "lengthKm": 19.59,
+          "stats": {
+            "observations": 1023,
+            "matched": 1023,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.3998735257223587,
-            "roundaboutSegs": 36,
+            "meanError": 0.4683064802676921,
+            "roundaboutSegs": 40,
             "extStart": 0,
             "extEnd": 0
           }
@@ -4537,18 +4705,18 @@
           "dir": "1",
           "headsign": "Disp. Bucium",
           "variants": 1,
-          "tripCount": 36,
-          "stops": 20,
+          "tripCount": 1,
+          "stops": 21,
           "lengthKm": 15.32,
           "stats": {
-            "observations": 774,
-            "matched": 774,
+            "observations": 768,
+            "matched": 768,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.4499833426377067,
+            "meanError": 0.42564541099684255,
             "roundaboutSegs": 33,
             "extStart": 0,
             "extEnd": 0
@@ -4562,22 +4730,43 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "M Uzina Electrica Nord",
+          "dir": "0",
           "headsign": "M Uzina Electrica Nord",
           "variants": 1,
-          "tripCount": 8,
-          "stops": 18,
-          "lengthKm": 28.19,
+          "tripCount": 1,
+          "stops": 20,
+          "lengthKm": 25.97,
           "stats": {
-            "observations": 1448,
-            "matched": 1448,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
+            "observations": 1357,
+            "matched": 1345,
+            "noCandidates": 12,
+            "viterbiBreaks": 1,
             "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.3582575738247318,
+            "rawStretchCount": 1,
+            "rawMeters": 254,
+            "meanError": 1.40451942007011,
             "roundaboutSegs": 24,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Disp. Bucium",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 17,
+          "lengthKm": 24.95,
+          "stats": {
+            "observations": 1242,
+            "matched": 1230,
+            "noCandidates": 12,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 249,
+            "meanError": 1.7158063523986682,
+            "roundaboutSegs": 41,
             "extStart": 0,
             "extEnd": 0
           }
@@ -4593,7 +4782,7 @@
           "dir": "0",
           "headsign": "M Centru N",
           "variants": 1,
-          "tripCount": 5,
+          "tripCount": 1,
           "stops": 6,
           "lengthKm": 20.84,
           "stats": {
@@ -4604,7 +4793,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.27134158660755503,
+            "meanError": 0.2713271190004562,
             "roundaboutSegs": 14,
             "extStart": 0,
             "extEnd": 0
@@ -4614,7 +4803,7 @@
           "dir": "1",
           "headsign": "Posada",
           "variants": 1,
-          "tripCount": 5,
+          "tripCount": 1,
           "stops": 6,
           "lengthKm": 21.06,
           "stats": {
@@ -4625,7 +4814,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.3175931261956882,
+            "meanError": 0.3171612438596903,
             "roundaboutSegs": 22,
             "extStart": 0,
             "extEnd": 0
@@ -4639,10 +4828,10 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "M Primaria Petrestii de Jos S",
+          "dir": "0",
           "headsign": "M Primaria Petrestii de Jos S",
           "variants": 1,
-          "tripCount": 8,
+          "tripCount": 1,
           "stops": 5,
           "lengthKm": 30.71,
           "stats": {
@@ -4653,8 +4842,29 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.21763028118455674,
+            "meanError": 0.21764880344828488,
             "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Posada",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 5,
+          "lengthKm": 31.42,
+          "stats": {
+            "observations": 1570,
+            "matched": 1570,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.223124313597691,
+            "roundaboutSegs": 29,
             "extStart": 0,
             "extEnd": 0
           }
@@ -4670,18 +4880,18 @@
           "dir": "0",
           "headsign": "M - Savadisla01",
           "variants": 1,
-          "tripCount": 15,
-          "stops": 11,
-          "lengthKm": 18.63,
+          "tripCount": 1,
+          "stops": 12,
+          "lengthKm": 18.61,
           "stats": {
-            "observations": 875,
-            "matched": 875,
+            "observations": 915,
+            "matched": 915,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.4388388594242687,
+            "meanError": 1.4630522914510982,
             "roundaboutSegs": 7,
             "extStart": 0,
             "extEnd": 0
@@ -4691,19 +4901,19 @@
           "dir": "1",
           "headsign": "Disp. Clăbucet",
           "variants": 1,
-          "tripCount": 16,
-          "stops": 11,
-          "lengthKm": 18.55,
+          "tripCount": 1,
+          "stops": 12,
+          "lengthKm": 18.6,
           "stats": {
-            "observations": 872,
-            "matched": 872,
+            "observations": 898,
+            "matched": 898,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.535603151850404,
-            "roundaboutSegs": 15,
+            "meanError": 2.6529105185174897,
+            "roundaboutSegs": 25,
             "extStart": 0,
             "extEnd": 0
           }
@@ -4719,18 +4929,18 @@
           "dir": "0",
           "headsign": "Disp. Tram CUG",
           "variants": 1,
-          "tripCount": 29,
+          "tripCount": 1,
           "stops": 11,
-          "lengthKm": 5.77,
+          "lengthKm": 5.55,
           "stats": {
-            "observations": 328,
-            "matched": 321,
-            "noCandidates": 7,
+            "observations": 280,
+            "matched": 280,
+            "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.0546881164894217,
+            "meanError": 3.0108354436962697,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -4738,20 +4948,20 @@
         },
         {
           "dir": "1",
-          "headsign": "P-ța Gării Noi",
+          "headsign": "P-ta Garii Noi",
           "variants": 1,
-          "tripCount": 29,
+          "tripCount": 1,
           "stops": 11,
-          "lengthKm": 5.59,
+          "lengthKm": 5.57,
           "stats": {
-            "observations": 279,
-            "matched": 279,
+            "observations": 280,
+            "matched": 280,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.1926598799326067,
+            "meanError": 2.711178178438392,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -4766,9 +4976,9 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "P-ța Gării Nord",
+          "headsign": "P-ta Garii Nord",
           "variants": 1,
-          "tripCount": 193,
+          "tripCount": 1,
           "stops": 11,
           "lengthKm": 6.59,
           "stats": {
@@ -4779,7 +4989,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.7270024097612815,
+            "meanError": 3.726948753204978,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -4789,7 +4999,7 @@
           "dir": "1",
           "headsign": "Disp. Bucium",
           "variants": 1,
-          "tripCount": 193,
+          "tripCount": 1,
           "stops": 10,
           "lengthKm": 8.69,
           "stats": {
@@ -4817,7 +5027,7 @@
           "dir": "0",
           "headsign": "Disp. Tram CUG",
           "variants": 1,
-          "tripCount": 214,
+          "tripCount": 1,
           "stops": 21,
           "lengthKm": 11.55,
           "stats": {
@@ -4828,7 +5038,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.9111748659674515,
+            "meanError": 3.9110679229210876,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -4838,7 +5048,7 @@
           "dir": "1",
           "headsign": "Disp. Bucium",
           "variants": 1,
-          "tripCount": 212,
+          "tripCount": 1,
           "stops": 20,
           "lengthKm": 11.65,
           "stats": {
@@ -4866,9 +5076,9 @@
           "dir": "0",
           "headsign": "DEPOU Vest",
           "variants": 1,
-          "tripCount": 14,
+          "tripCount": 1,
           "stops": 22,
-          "lengthKm": 12.48,
+          "lengthKm": 12.64,
           "stats": {
             "observations": 628,
             "matched": 628,
@@ -4877,17 +5087,17 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.903398347802044,
+            "meanError": 2.903577222885461,
             "roundaboutSegs": 0,
             "extStart": 0,
-            "extEnd": 0
+            "extEnd": 156
           }
         },
         {
           "dir": "1",
           "headsign": "Disp. Bucium",
           "variants": 1,
-          "tripCount": 17,
+          "tripCount": 1,
           "stops": 22,
           "lengthKm": 12.85,
           "stats": {
@@ -4905,6 +5115,156 @@
           }
         }
       ]
+    },
+    {
+      "line": "5N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Electromontaj Sud",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 18,
+          "lengthKm": 10.1,
+          "stats": {
+            "observations": 501,
+            "matched": 501,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.249291375331888,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "P-ța Gării Sosire",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 18,
+          "lengthKm": 10.31,
+          "stats": {
+            "observations": 521,
+            "matched": 521,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.9832996721909883,
+            "roundaboutSegs": 21,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "25N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Disp. Unirii",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 17,
+          "lengthKm": 8.32,
+          "stats": {
+            "observations": 425,
+            "matched": 425,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.179600090843776,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Disp. Bucium",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 16,
+          "lengthKm": 8.14,
+          "stats": {
+            "observations": 417,
+            "matched": 417,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.586826300526383,
+            "roundaboutSegs": 48,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "54N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Disp. Grigorescu",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 17,
+          "lengthKm": 8.68,
+          "stats": {
+            "observations": 449,
+            "matched": 449,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.1348281402516145,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Ghe. Dima",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 15,
+          "lengthKm": 8.67,
+          "stats": {
+            "observations": 430,
+            "matched": 430,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.630516696699635,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
     }
   ]
 }

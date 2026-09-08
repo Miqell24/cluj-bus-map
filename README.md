@@ -8,7 +8,12 @@ real street and track geometry.
 
 Not published — this map is built and reviewed locally.
 
-One feed covers everything, split by `route_type` at build time:
+One feed covers everything, split by `route_type` at build time. Since
+8.09.2026 it is the daily GTFS dump of CTP's Tranzy open-data API
+([TranzyGTFSconverter](https://github.com/FloreaCostinMario/TranzyGTFSconverter),
+`Output/CTP Cluj.zip`; the API itself needs a personal key). The earlier
+`external.gtfs.ro/cluj/CLUJ.zip` modelled eighteen lines as one direction only
+and expired on 30.06.2026.
 
 | mode | route_type | lines | graph |
 |---|---|---|---|
@@ -20,9 +25,19 @@ Cluj-Napoca has **no metro**, so the engine's metro treatment stays unused.
 
 Build quirks worth knowing:
 
-* **Line 2 is defined but never runs.** The trolleybus Ion Mester – P-ța Gării has a `routes.txt` entry and zero trips, so it is absent from the map — 107 of the feed's 108 lines are drawn.
-
-* **Eighteen lines run one way only**, and that is the feed's own shape: CTP publishes many metropolitan and night services as a single direction with distinct end stops, modelling the return as its own route entry — the *Plecare* / *Sosire* (departure / arrival) suffixes on the stop names are the tell.
+* **The feed lists 172 routes, the map draws 107.** The Tranzy dump carries
+  every route the fleet system knows: pupil transports (TE1–TE14, M75A–M80),
+  Emerson factory shuttles (88A–88L, 89S), festival and cemetery specials
+  (30U, 8S, 39S) and dormant entries (trolleybus 2, 4N, the M…N night lines).
+  `download.sh` fetches CTP's own timetable CSVs
+  (`ctpcj.ro/orare/csv/orar_<line>_{lv,s,d}.csv`) into `data/roster.json`, and
+  a line is drawn only when at least one of them carries a departure.
+* **No calendar, no times.** The dump has one trip and one shape per
+  direction and no `stop_times` clock — nothing this map reads, but trip
+  counts in `meta.json` say nothing about frequency here.
+* **Both directions everywhere.** The old gtfs.ro feed modelled M22, M26,
+  M52, 10, 12, 29S and twelve more as a single direction with *Plecare* /
+  *Sosire* end stops; the Tranzy dump carries the return leg of each.
 * **Line numbers are unique across the modes**, so the line keys are the bare
   numbers printed on the vehicles — none of the mode prefixes the Sofia sibling
   needs. Re-check on every feed refresh.

@@ -4,6 +4,12 @@
 // per-line colors. There is no metro here, so the engine's metro
 // treatment stays unused. The operator numbers its modes from ONE pool with
 // no number used twice, so the line keys are bare numbers and need no prefixes.
+// The feed is the daily Tranzy dump (see download.sh): both directions of
+// every line, one trip and one shape per direction, no calendar and no times —
+// so trip counts here say nothing about frequency, only which shape exists.
+// Lines are drawn only when CTP's own timetables list a departure for them
+// (data/roster.json): the dump also carries pupil transports, factory
+// shuttles and dormant entries that never appear on the street.
 // Usage: node pipeline/build.mjs [--all | lines...] [--tram all|7]
 // Results land in shared files with properties.color/mode, so the frontend styles
 // them data-driven.
@@ -128,6 +134,18 @@ const busList = busArgs.filter((a) => a !== '--all');
 // which the feed writes inconsistently ("301Na" alongside "401A").
 const norm = (sn) => sn.trim();
 
+// Public-line roster written by download.sh from ctpcj.ro's timetable CSVs:
+// { line: { lv: departures|null, s: …, d: … } }. A line with no departure on
+// any day type (pupil transports TE1–TE14, Emerson shuttles 88A–88L, dormant
+// 2 / 4N / M26N…) stays out of the map, whatever the feed lists.
+const ROSTER_FILE = join(ROOT, 'data/roster.json');
+if (!existsSync(ROSTER_FILE)) {
+  console.error('data/roster.json missing — run `npm run download` (CTP timetables step)');
+  process.exit(1);
+}
+const ROSTER = JSON.parse(readFileSync(ROSTER_FILE, 'utf8'));
+const isPublic = (sn) => Object.values(ROSTER[sn] || {}).some((n) => n > 0);
+
 // ONE feed: routeTypes splits the CTP Cluj bundle per mode
 // (3 = bus and 11 = trolleybus, both riding the road network, trolleybuses in green;
 // 0 = tram on the tram graph). Without the filter `--all` on the bus mode would
@@ -140,7 +158,7 @@ const MODES = [{
   feeds: [
     {
       tag: 'cluj', dir: 'data/gtfs', routeTypes: ['3', '11'],
-      mapKey: (sn) => norm(sn),
+      mapKey: (sn) => norm(sn), keep: isPublic,
     },
   ],
 }];
@@ -152,7 +170,7 @@ if (tramAll || tramSel.length) MODES.push({
   color: '#d6212b', colorDark: '#7c1116',
   all: tramAll, lines: tramAll ? [] : tramSel.map((l) => norm(l.toUpperCase())),
   feeds: [
-    { tag: 'cluj', dir: 'data/gtfs', mapKey: (sn) => norm(sn), routeTypes: ['0'] },
+    { tag: 'cluj', dir: 'data/gtfs', mapKey: (sn) => norm(sn), routeTypes: ['0'], keep: isPublic },
   ],
 });
 
@@ -343,6 +361,8 @@ async function processMode(cfg) {
       // and the key must say which one a line came from
       const key = feed.mapKey((r.route_short_name || '').trim(), r);
       if (!key) continue;
+      // roster check: the Tranzy dump lists routes that never run in public
+      if (feed.keep && !feed.keep(key)) continue;
       routeToLine.set(r.route_id, key);
       if (r.route_type === '11') {
         cfg.trolleySet.add(key);
@@ -1717,3 +1737,6 @@ writeFileSync(join(outDir, 'meta.json'), JSON.stringify({
   lines: metaLines,
 }, null, 2));
 log(`Wrote data/out/{route,streets,labels,street-names,stops,badges,gtfs-shape}.geojson + meta.json`);
+
+// Night lines print black and sort last (user rule 8.09.2026): a post-pass over the written outputs, see night.mjs.
+await (await import('./night.mjs')).nightPass(outDir, /^\d+N$/, { sort: true });
